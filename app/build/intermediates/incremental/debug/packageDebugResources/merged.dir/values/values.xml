@@ -1,0 +1,1718 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="pref_theme_entries">
+        <item>Light</item>
+        <item>Dark</item>
+        <item>Black</item>
+    </string-array>
+    <string-array name="pref_theme_entries_value" translatable="false">
+        <item>@string/pref_theme_light_value</item>
+        <item>@string/pref_theme_dark_value</item>
+        <item>@string/pref_theme_black_value</item>
+    </string-array>
+    <string-array name="prefs_volume_names">
+        <item>HDMI Out</item>
+        <item>Media Stream</item>
+    </string-array>
+    <string-array name="prefs_volume_values">
+        <item>device</item>
+        <item>stream</item>
+    </string-array>
+    <attr format="reference|color" name="sgColorBackgroundCard"/>
+    <attr format="reference|color" name="sgColorBackgroundDim"/>
+    <attr format="reference|color" name="sgColorDivider"/>
+    <attr format="reference|color" name="sgColorIcon"/>
+    <attr format="reference|color" name="sgColorIconInactive"/>
+    <attr format="reference|color" name="sgColorShadow"/>
+    <attr format="reference|color" name="sgColorStatusBarOverlay"/>
+    <attr format="reference|color" name="sgTextColorGreen"/>
+    <attr format="reference|color" name="sgTextColorSecondaryDim"/>
+    <attr format="boolean" name="vc_autoMirrored"/>
+    <attr format="string" name="vc_pathData"/>
+    <attr format="color" name="vc_tint"/>
+    <attr format="enum" name="vc_tintMode">
+        
+        <enum name="src_over" value="3"/>
+        
+        <enum name="src_in" value="5"/>
+        
+        <enum name="src_atop" value="9"/>
+        
+        <enum name="multiply" value="14"/>
+        
+        <enum name="screen" value="15"/>
+        
+        <enum name="add" value="16"/>
+    </attr>
+    <bool name="isLargeScreenDevice">false</bool>
+    <bool name="isTwoPane">false</bool>
+    <color name="accent">#00B0FF</color>
+    <color name="accent_dark">#058DDB</color>
+    <color name="accent_light">#82D7FF</color>
+    <color name="app_background">#232325</color>
+    <color name="background">#FFFFFF</color>
+    <color name="background_dark">#121212</color>
+    <color name="background_dialog">#FFFFFF</color>
+    <color name="background_dialog_black">#121212</color>
+    <color name="background_dialog_dark">#373737</color>
+    <color name="bg_item_normal_pressed_state">#ffe0e0e0</color>
+    <color name="bg_item_normal_state">#fff0f0f0</color>
+    <color name="bg_item_upcoming_state">@color/primary</color>
+    <color name="black">#000000</color>
+    <color name="black_subtitles_background">#64000000</color>
+    <color name="blue_grey_600">#546E7A</color>
+    <color name="bottomnavigationbgcolor">#1F252E</color>
+    <color name="centerColor">#00b4ca</color>
+    <color name="colorAccent">#121212</color>
+    <color name="colorPrimary">#1976D2</color>
+    <color name="colorPrimaryDark">#1565C0</color>
+    <color name="dark_theme_status_bar">#212121</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="divider_dark">#202020</color>
+    <color name="endColor">#009ff3</color>
+    <color name="error">#B00020</color>
+    <color name="error_light">#CF6679</color>
+    <color name="foreground">#FFFFFF</color>
+    <color name="foreground_dark">#2D2D2D</color>
+    <color name="fragment_content_detail_overlay_center">#6626262d</color>
+    <color name="fragment_content_detail_overlay_end">#181d25</color>
+    <color name="fragment_content_detail_overlay_start">#0026262d</color>
+    <color name="fragment_content_detail_stroke">#1a000000</color>
+    <color name="fragment_featured_end">#1a1a1a</color>
+    <color name="fragment_featured_overlay_center">#6626262d</color>
+    <color name="fragment_featured_overlay_start">#0026262d</color>
+    <color name="golden_gate">#00b4ca</color>
+    <color name="gray">#333333</color>
+    <color name="gray_dark">#727272</color>
+    <color name="gray_main">#489699a3</color>
+    <color name="green_subtitles_background">#641E9618</color>
+    <color name="grey_10">#e6e6e6</color>
+    <color name="grey_1000">#1a1a1a</color>
+    <color name="grey_11">#e6e6e6</color>
+    <color name="grey_1100">#80070707</color>
+    <color name="grey_1200">#bf1a1a1a</color>
+    <color name="grey_20">#cccccc</color>
+    <color name="grey_3">#f7f7f7</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_40">#999999</color>
+    <color name="grey_60">#666666</color>
+    <color name="greyhome">#26272c</color>
+    <color name="iconFillColor">#3DDC84</color>
+    <color name="iconMaskColor">#46485f</color>
+    <color name="iconMaskStrokeColor">#00ffffff</color>
+    <color name="iconStrokeColor">#000000</color>
+    <color name="light_green_400">#9CCC65</color>
+    <color name="mainColor">#3700B3</color>
+    <color name="main_color">#00b4ca</color>
+    <color name="newAdScreenBtnBgColor">@color/colorPrimary</color>
+    <color name="newAdScreenColor">@color/iconMaskColor</color>
+    <color name="newSplashIconMaskColor">@color/iconMaskColor</color>
+    <color name="newSplashScreenColor">#f6f5ec</color>
+    <color name="ok">#20B000</color>
+    <color name="ok_light">#9CD791</color>
+    <color name="orange">#ff501a</color>
+    <color name="orange2">#fff9930d</color>
+    <color name="overlay_dark_10">#1A000000</color>
+    <color name="overlay_dark_20">#33000000</color>
+    <color name="overlay_dark_40">#B3000000</color>
+    <color name="overlay_dark_50">#80000000</color>
+    <color name="player_controls_overlay">#b226262d</color>
+    <color name="player_controls_progress_background">#33ffffff</color>
+    <color name="player_controls_secondary_progress_background">#4cffffff</color>
+    <color name="primary">#03A9F4</color>
+    <color name="primary_dark">#0288D1</color>
+    <color name="primary_light">#80DEEA</color>
+    <color name="red_A700">#D50000</color>
+    <color name="red_subtitles_background">#64D50000</color>
+    <color name="search_background_input">#333333</color>
+    <color name="selectable">#E0F7FA</color>
+    <color name="selectable_dark">#113C44</color>
+    <color name="selectable_drawer">#E0F7FA</color>
+    <color name="selectable_drawer_dark">#354E54</color>
+    <color name="splashActivityColor">#03DAC5</color>
+    <color name="splashIconMaskColor">#E9620B</color>
+    <color name="splashScreenColor">#F2F2F0</color>
+    <color name="startColor">#00c8a1</color>
+    <color name="status_bar">#E0E0E0</color>
+    <color name="text_primary">#DE000000</color>
+    <color name="text_primary_inverse">#FFFFFF</color>
+    <color name="toolbar">#FFFFFF</color>
+    <color name="toolbar_dark">#272727</color>
+    <color name="transparent">#00000000</color>
+    <color name="tv_auto_play_overlay_center">#99191919</color>
+    <color name="tv_auto_play_overlay_end">#cc191919</color>
+    <color name="tv_auto_play_overlay_start">#4c191919</color>
+    <color name="tv_player_white">#ffffffff</color>
+    <color name="warning">#FFD600</color>
+    <color name="warning_light">#FFF394</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow_subtitles_background">#64f9930d</color>
+    <dimen name="activity_detail_vertical_margin">88dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="button_elevation">2dp</dimen>
+    <dimen name="button_press_elevation">4dp</dimen>
+    <dimen name="cardview_disable_shadow">10dp</dimen>
+    <dimen name="cardview_enable_shadow">-10dp</dimen>
+    <dimen name="dialog_padding">24dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_size">56dp</dimen>
+    <dimen name="grid_leftright_padding">8dp</dimen>
+    <dimen name="list_item_size">56dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="min_width_dialog">300dp</dimen>
+    <dimen name="navigation_drawer_width">240dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_zero">0dp</dimen>
+    <dimen name="pixel_10dp">10.0dip</dimen>
+    <dimen name="pixel_15dp">15.0dip</dimen>
+    <dimen name="pixel_16dp">16sp</dimen>
+    <dimen name="pixel_200dp">200.0dip</dimen>
+    <dimen name="pixel_20dp">20.0dip</dimen>
+    <dimen name="pixel_328dp">328.0dip</dimen>
+    <dimen name="pixel_4dp">4.0dip</dimen>
+    <dimen name="spacing_large">20dp</dimen>
+    <dimen name="spacing_medium">5dp</dimen>
+    <dimen name="spacing_middle">10dp</dimen>
+    <dimen name="spacing_mlarge">20dp</dimen>
+    <dimen name="spacing_small">3dp</dimen>
+    <dimen name="spacing_xlarge">48dp</dimen>
+    <dimen name="spacing_xmlarge">40dp</dimen>
+    <dimen name="spacing_xsmall">2dp</dimen>
+    <dimen name="spacing_xxlarge">50dp</dimen>
+    <dimen name="status_bar_height">25dp</dimen>
+    <dimen name="tool_bar_top_padding">0dp</dimen>
+    <dimen name="toolbar_elevation">4dp</dimen>
+    <dimen name="view_tubi_controller_text_size">13sp</dimen>
+    <dimen name="widget_margin">8dp</dimen>
+    <item name="toolbar" type="id"/>
+    <integer name="anim_duration">300</integer>
+    <integer name="drawer_category_all_id">0</integer>
+    <integer name="drawer_category_apk_id">5</integer>
+    <integer name="drawer_category_archives_id">7</integer>
+    <integer name="drawer_category_audio_id">6</integer>
+    <integer name="drawer_category_documents_id">2</integer>
+    <integer name="drawer_category_id">0</integer>
+    <integer name="drawer_category_images_id">3</integer>
+    <integer name="drawer_category_others_id">1</integer>
+    <integer name="drawer_category_video_id">4</integer>
+    <integer name="drawer_date_added_all_id">0</integer>
+    <integer name="drawer_date_added_id">2</integer>
+    <integer name="drawer_date_added_month_id">4</integer>
+    <integer name="drawer_date_added_today_id">1</integer>
+    <integer name="drawer_date_added_week_id">3</integer>
+    <integer name="drawer_date_added_year_id">5</integer>
+    <integer name="drawer_date_added_yesterday_id">2</integer>
+    <integer name="drawer_sorting_category_asc_id">6</integer>
+    <integer name="drawer_sorting_category_desc_id">7</integer>
+    <integer name="drawer_sorting_date_added_asc_id">0</integer>
+    <integer name="drawer_sorting_date_added_desc_id">1</integer>
+    <integer name="drawer_sorting_id">3</integer>
+    <integer name="drawer_sorting_name_asc_id">2</integer>
+    <integer name="drawer_sorting_name_desc_id">3</integer>
+    <integer name="drawer_sorting_no_sorting_id">8</integer>
+    <integer name="drawer_sorting_size_asc_id">4</integer>
+    <integer name="drawer_sorting_size_desc_id">5</integer>
+    <integer name="drawer_status_all_id">0</integer>
+    <integer name="drawer_status_id">1</integer>
+    <integer name="drawer_status_running_id">1</integer>
+    <integer name="drawer_status_stopped_id">2</integer>
+    <item name="activity_main_download" type="layout">@layout/activity_main_drawer</item>
+    <item name="activity_settings" type="layout">@layout/activity_settings_portrait</item>
+    <plurals name="browser_bookmark_delete_failed">
+        <item quantity="one">Failed to delete bookmark</item>
+        <item quantity="other">Failed to delete bookmarks</item>
+    </plurals>
+    <plurals name="browser_bookmark_deleted">
+        <item quantity="one">Bookmark deleted</item>
+        <item quantity="other">Bookmarks deleted</item>
+    </plurals>
+    <plurals name="unable_sharing">
+        <item quantity="one">The file cannot be shared.</item>
+        <item quantity="other">The files cannot be shared.</item>
+    </plurals>
+    <string name="AGREE">AGREE</string>
+    <string name="DISAGREE">DISAGREE</string>
+    <string name="Default">Default</string>
+    <string name="about">About</string>
+    <string name="about_app">About EasyPlex</string>
+    <string name="about_changelog">Changelog</string>
+    <string name="about_changelog_link" translatable="false">https://codecanyon.net/item/easyplex-movies-live-streaming-tv-series-anime/28462799</string>
+    <string name="about_description"/>
+    <string name="about_error_login">Bad Credentials. Please Login Again.</string>
+    <string name="about_no_stream">No Stream Available For This Movie Check Later.</string>
+    <string name="about_no_stream_download">No Download Available For This Movie Check Later.</string>
+    <string name="about_no_stream_download_episode">No Download Available For This Episode Check Later.</string>
+    <string name="about_title">About Download Easyplex</string>
+    <string name="about_us">About Us</string>
+    <string name="about_wifi_warning">You have selected to playback on Wi-Fi only. Go to App Settings to change.</string>
+    <string name="accept">ACCEPT</string>
+    <string name="access_code">Wrong Access Code</string>
+    <string name="action_clear_queue">Clear Queue</string>
+    <string name="action_settings">Settings</string>
+    <string name="actor">Actor</string>
+    <string name="actress">Actress</string>
+    <string name="ad">Ad</string>
+    <string name="add">Add</string>
+    <string name="add_dialog_checksum_description">MD5, SHA-256</string>
+    <string name="add_download">Add download</string>
+    <string name="add_download_error_invalid_url">Unable to add download: invalid URL</string>
+    <string name="add_download_num_pieces" translatable="false">add_download_num_pieces</string>
+    <string name="add_download_replace_file_flag" translatable="false">add_download_replace_file_flag</string>
+    <string name="add_download_retry_flag" translatable="false">add_download_retry_flag</string>
+    <string name="add_download_unmetered_only_flag" translatable="false">add_download_unmetered_only_flag</string>
+    <string name="add_profile">Add Profile</string>
+    <string name="add_to_my_list_player">Add To MyList</string>
+    <string name="add_to_queue">Add to Queue</string>
+    <string name="added_mylist">Added: </string>
+    <string name="added_to_watchlist">Added To Watchlist</string>
+    <string name="admob" translatable="false">Admob</string>
+    <string name="all">All</string>
+    <string name="all_genres">All Genres</string>
+    <string name="allow_notifications">Allow Notifications</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="animation">Animation</string>
+    <string name="animes">Animes</string>
+    <string name="app_error_occurred">The app error occurred. You can send the report to developers</string>
+    <string name="app_id" translatable="false">CC1AD845</string>
+    <string name="app_name" translatable="false">EasyPlex</string>
+    <string name="app_running_in_the_background">Easyplex Downloads running in the background</string>
+    <string name="app_versions">"Version : "</string>
+    <string name="applovin" translatable="false">AppLovin</string>
+    <string name="apply">Apply</string>
+    <string name="applying_params_error_title">Applying params error for %1$s</string>
+    <string name="applying_params_for_downloads">Applying params for downloads</string>
+    <string name="applying_params_title">Applying params</string>
+    <string name="appnext" translatable="false">AppNext</string>
+    <string name="appodeal" translatable="false">Appodeal</string>
+    <string name="are_you_sure_to_delete_from_your_watching_history">Are you sure to delete </string>
+    <string name="are_you_sure_you_want_to_cancel_your_subscription">Are you sure you want to cancel your subscription ?</string>
+    <string name="aspect_ratio">Aspect Ratio</string>
+    <string name="audio">Audio</string>
+    <string name="auth_name" translatable="false">Auth Name</string>
+    <string name="auto" translatable="false">Auto</string>
+    <string name="auto_play">Auto Play</string>
+    <string name="autoplay_off">AutoPlay is Off</string>
+    <string name="autoplay_on">AutoPlay is On</string>
+    <string name="back">BACK</string>
+    <string name="bg_font_color">Substitle Font Color..</string>
+    <string name="biography">Biography</string>
+    <string name="bookmarks_list_empty">No bookmarks</string>
+    <string name="browser">Browser</string>
+    <string name="browser_add_bookmark">Add bookmark</string>
+    <string name="browser_address_bar_hint">Enter address or query</string>
+    <string name="browser_app">Easyplex Browser</string>
+    <string name="browser_back_pressed">Press again to close</string>
+    <string name="browser_bookmark_add_failed">Failed to add bookmark</string>
+    <string name="browser_bookmark_added">Bookmark added</string>
+    <string name="browser_bookmark_change_failed">Failed to change bookmark</string>
+    <string name="browser_bookmark_edit_menu">Edit</string>
+    <string name="browser_bookmark_error_empty_name">Please enter name</string>
+    <string name="browser_bookmark_error_empty_url">Please enter URL</string>
+    <string name="browser_bookmark_name">Name</string>
+    <string name="browser_bookmark_url">URL</string>
+    <string name="browser_bookmarks">Bookmarks</string>
+    <string name="browser_copy_link">Copy link</string>
+    <string name="browser_desktop_version">Desktop version</string>
+    <string name="browser_download_from_link">Download</string>
+    <string name="browser_edit_bookmark">Edit bookmark</string>
+    <string name="browser_forward_arrow">Forward</string>
+    <string name="browser_secure_connection">Secure connection</string>
+    <string name="by_rating">By Rating</string>
+    <string name="by_tapping_the_button_you_agree_to_easyplex_term_amp_condition_and_privacy_policy"><![CDATA[By tapping the button, you agree to EasyPlex Term & Condition and Privacy Policy.]]></string>
+    <string name="by_views">By Views</string>
+    <string name="by_year">By Year</string>
+    <string name="byteen" translatable="false">/10</string>
+    <string name="calculate">Calculate</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_subscription">Cancel Subscription</string>
+    <string name="cannot_extract">Cannot Extract the video from the media</string>
+    <string name="cannot_load_subs">Cannot Load Substitles ...</string>
+    <string name="cant_show">Can\'t show rewarded video</string>
+    <string name="captions_built_in">Captions ( Built in )</string>
+    <string name="caracters">Caracters</string>
+    <string name="casters">Casters</string>
+    <string name="check_later">Check Later</string>
+    <string name="check_your_inbox">Check your inbox</string>
+    <string name="checking_your_login_info">Checking Your Login Info....</string>
+    <string name="checksum">Checksum</string>
+    <string name="choose">Choose</string>
+    <string name="choose_downloads_options">Choose Downloads Options</string>
+    <string name="choose_season">Choose a season</string>
+    <string name="choose_your_launch_player">Choose your launch player</string>
+    <string name="choosed_for_you">Choosed For You</string>
+    <string name="clear_cache">Clear Cache</string>
+    <string name="clear_cache_msg">This will be clear cached data for this app !</string>
+    <string name="clear_history">Do you Really want to Clear History ?</string>
+    <string name="clear_my_list">Clear My List</string>
+    <string name="clear_watch_history">Clear Watch History</string>
+    <string name="clipboard">Clipboard</string>
+    <string name="close">Close</string>
+    <string name="close_navigation_drawer">Close navigation drawer</string>
+    <string name="comment_deleted">Successfully deleted</string>
+    <string name="comment_not_deleted">could not be deleted</string>
+    <string name="comment_sent">Comment added successfully</string>
+    <string name="comment_size_views">"Comments : "</string>
+    <string name="comments">COMMENTS</string>
+    <string name="comments_size"> Comments </string>
+    <string name="commercial" translatable="false">Commercial</string>
+    <string name="completed_download_message_fragment">This is where you\'ll see the shows and movies we download for your. Check back later to see what we\'ve found</string>
+    <string name="completed_is_empty">Completed is empty</string>
+    <string name="confirm">Confirm</string>
+    <string name="connect">Connect</string>
+    <string name="continue_watching">Continue Watching</string>
+    <string name="controller_time_position_text_default" translatable="false">00:00:00</string>
+    <string name="copyright">Copyright © 2023 EASYPLEX. All rights reserved.</string>
+    <string name="countdown_wait">You Must wait until the countdown finish before sending the confirmation code again</string>
+    <string name="current_aspect">Current aspect ratio</string>
+    <string name="current_aspect_ratio">Current aspect ratio : %s</string>
+    <string name="current_background">Current Color</string>
+    <string name="current_color">Current Substitle Color : %s</string>
+    <string name="current_default_lang2">Current Default Language : %s</string>
+    <string name="current_localtion">Current location : </string>
+    <string name="current_location">Current location :</string>
+    <string name="current_size">Current Size</string>
+    <string name="current_subtitle">Current subtitle size : %s</string>
+    <string name="custom_text_here">Custom Text Here</string>
+    <string name="decilne">DECILNE</string>
+    <string name="default_lang_substitles">Default Subtitle</string>
+    <string name="default_langs_substitles">Default Subtitle Langs..</string>
+    <string name="default_web_client_id" translatable="false">858774962602-s7vkl8nu51u8bqersjrvf9v32s2v3u9r.apps.googleusercontent.com</string>
+    <string name="delete">Delete</string>
+    <string name="delete_selected_download">Delete the selected download? This operation cannot be undone</string>
+    <string name="delete_selected_downloads">Delete the selected downloads? This operation cannot be undone</string>
+    <string name="delete_user">Unable to delete your account !</string>
+    <string name="delete_with_downloaded_file">Delete with downloaded file</string>
+    <string name="deleting">Deleting</string>
+    <string name="detail_date_added">Date added</string>
+    <string name="detail_downloaded">Downloaded</string>
+    <string name="detail_downloaded_format">%1$s/%2$s (%3$d%%)</string>
+    <string name="detail_md5_hash_sum">MD5</string>
+    <string name="detail_pieces">Pieces</string>
+    <string name="detail_sha256_hash_sum">SHA-256</string>
+    <string name="detail_user_agent">User agent</string>
+    <string name="details">Details</string>
+    <string name="device_does_not_support_this_feature">Your device doesn\'t support this feature</string>
+    <string name="dialog_add_user_agent_title">Add user agent</string>
+    <string name="dialog_new_folder_title">New folder</string>
+    <string name="dir_chooser_title">Folder selection</string>
+    <string name="disable_player_ads">Disable Player Ads</string>
+    <string name="discover">Discover</string>
+    <string name="download_advanced">Advanced</string>
+    <string name="download_description">Description</string>
+    <string name="download_details">Details</string>
+    <string name="download_disabled">Download system is currently disabled</string>
+    <string name="download_error_empty_link">Please enter link</string>
+    <string name="download_error_empty_name">Please enter name</string>
+    <string name="download_error_name_is_not_correct">Correct name is \"%1$s\"</string>
+    <string name="download_error_no_enough_free_space">Not enough free space: %1$s free, but file size is %2$s</string>
+    <string name="download_error_notify_title">Download error</string>
+    <string name="download_finished_notify">Download finished</string>
+    <string name="download_finished_template">%1$s \u2022 %2$s</string>
+    <string name="download_for">Download for </string>
+    <string name="download_in_queue_ticker_notify">%1$s in queue</string>
+    <string name="download_link">Link</string>
+    <string name="download_list_empty">No downloads</string>
+    <string name="download_location">Download Location</string>
+    <string name="download_name">Name</string>
+    <string name="download_pieces_number_title">Number of pieces</string>
+    <string name="download_premium_content">Download Premium content</string>
+    <string name="download_queued_progress_template">%1$s/%2$s \u2022 %3$s \u2022 %4$s/s</string>
+    <string name="download_queued_template">%1$s/%2$s \u2022 %3$s</string>
+    <string name="download_retry">Retry</string>
+    <string name="download_running">In progress</string>
+    <string name="download_size">Size: %1$s</string>
+    <string name="download_start_error">Failed to start download</string>
+    <string name="download_start_error_offline_license">Failed to obtain offline license</string>
+    <string name="download_ticker_notify">Downloading %1$s</string>
+    <string name="download_user_agent">User agent</string>
+    <string name="downloading_metadata">Downloading metadata</string>
+    <string name="downloads">Downloads</string>
+    <string name="drawer_category">Category</string>
+    <string name="drawer_category_apk">APK</string>
+    <string name="drawer_category_archives">Archives</string>
+    <string name="drawer_category_audio">Audio</string>
+    <string name="drawer_category_documents">Documents</string>
+    <string name="drawer_category_images">Images</string>
+    <string name="drawer_category_is_expanded" translatable="false">drawer_category_is_expanded</string>
+    <string name="drawer_category_others">Others</string>
+    <string name="drawer_category_selected_item" translatable="false">drawer_category_selected_item</string>
+    <string name="drawer_category_video">Video</string>
+    <string name="drawer_date_added">Date added</string>
+    <string name="drawer_date_added_month">Month</string>
+    <string name="drawer_date_added_today">Today</string>
+    <string name="drawer_date_added_week">Week</string>
+    <string name="drawer_date_added_year">Year</string>
+    <string name="drawer_date_added_yesterday">Yesterday</string>
+    <string name="drawer_sorting">Sorting</string>
+    <string name="drawer_sorting_category">Category</string>
+    <string name="drawer_sorting_date_added">Date added</string>
+    <string name="drawer_sorting_is_expanded" translatable="false">drawer_sorting_is_expanded</string>
+    <string name="drawer_sorting_name">Name</string>
+    <string name="drawer_sorting_no_sorting">No sorting</string>
+    <string name="drawer_sorting_selected_item" translatable="false">drawer_sorting_selected_item</string>
+    <string name="drawer_sorting_size">Size</string>
+    <string name="drawer_status">Status</string>
+    <string name="drawer_status_is_expanded" translatable="false">drawer_status_is_expanded</string>
+    <string name="drawer_status_running">Running</string>
+    <string name="drawer_status_selected_item" translatable="false">drawer_status_selected_item</string>
+    <string name="drawer_status_stopped">Stopped</string>
+    <string name="drawer_time_is_expanded" translatable="false">drawer_time_is_expanded</string>
+    <string name="drawer_time_selected_item" translatable="false">drawer_time_selected_item</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="editmod_profiles">Close Edit Mode</string>
+    <string name="elapsed_time_format_d_h_mm">%1$d d. %2$d h. %3$d m</string>
+    <string name="elapsed_time_format_h_mm_ss">%1$d h. %2$d m. %3$d s</string>
+    <string name="elapsed_time_format_mm_ss">%1$d m. %2$d s</string>
+    <string name="elapsed_time_format_ss">%1$d s</string>
+    <string name="email">Email</string>
+    <string name="empty_queue">Empty Queue</string>
+    <string name="enable_ffmpeg_extension">Enable FFmpeg extension</string>
+    <string name="enable_software_codec">Enable software codec</string>
+    <string name="enter">Enter</string>
+    <string name="ep_n" translatable="false">EP N</string>
+    <string name="episode">Episode</string>
+    <string name="episodes">Episodes</string>
+    <string name="err_email">The email must be a valid email address.</string>
+    <string name="err_name">The name field is required.</string>
+    <string name="err_password">The password must be at least 6 characters.</string>
+    <string name="error">Error</string>
+    <string name="error_cleartext_not_permitted">Cleartext HTTP traffic not permitted. See https://exoplayer.dev/issues/cleartext-not-permitted</string>
+    <string name="error_comment_prompt">You can add extra information and comments here:</string>
+    <string name="error_dialog_new_folder">Unable to create a new folder</string>
+    <string name="error_drm_unsupported_before_api_18">DRM content not supported on API levels below 18</string>
+    <string name="error_drm_unsupported_scheme">This device does not support the required DRM scheme</string>
+    <string name="error_file_exists">File already exists. Replace it?</string>
+    <string name="error_generic">Playback failed</string>
+    <string name="error_instantiating_decoder">Unable to instantiate decoder <ns1:g id="decoder_name">%1$s</ns1:g></string>
+    <string name="error_invalid_checksum">Invalid checksum</string>
+    <string name="error_no_decoder">This device does not provide a decoder for <ns1:g id="mime_type">%1$s</ns1:g></string>
+    <string name="error_no_secure_decoder">This device does not provide a secure decoder for <ns1:g id="mime_type">%1$s</ns1:g></string>
+    <string name="error_occured">An error has been occurred</string>
+    <string name="error_open_dir">Unable to open the folder</string>
+    <string name="error_querying_decoders">Unable to query device decoders</string>
+    <string name="error_template">Error: %1$s</string>
+    <string name="error_unsupported_audio">Media includes audio tracks, but none are playable by this device</string>
+    <string name="error_unsupported_video">Media includes video tracks, but none are playable by this device</string>
+    <string name="error_verify_checksum">Invalid file checksum</string>
+    <string name="exit_the_app">Press again to exit app</string>
+    <string name="external_players">External Players</string>
+    <string name="facebook" translatable="false">Facebook</string>
+    <string name="facebook_app_id" translatable="false">590451789066119</string>
+    <string name="failed_to_load_required_informations_client_id_is_not_valid">Failed to load required informations , Client ID is not valid</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb590451789066119</string>
+    <string name="fetch_error_default_fmt">Error: %1$s</string>
+    <string name="fetch_error_http_response">Error: server returned HTTP %1$d code</string>
+    <string name="fetch_error_invalid_url">Invalid URL: %1$s</string>
+    <string name="fetch_error_io">IO error: %1$s</string>
+    <string name="fetch_error_network_disconnected">network is disconnected</string>
+    <string name="file">File</string>
+    <string name="file_chooser_title">File selection</string>
+    <string name="file_name">File name</string>
+    <string name="file_name_is_empty">File name cannot be empty</string>
+    <string name="file_not_available">file not available!</string>
+    <string name="filmographie">Filmographie</string>
+    <string name="finished">Finished</string>
+    <string name="folder">Folder</string>
+    <string name="fonts_size">Fonts Size</string>
+    <string name="foreground_notification">Foreground notification</string>
+    <string name="forget">Forget Password ?</string>
+    <string name="fragment_title_completed">Completed</string>
+    <string name="fragment_title_queued">Queued</string>
+    <string name="free">Free</string>
+    <string name="free_episodes">Free Episodes</string>
+    <string name="from_history"> from your watching history ?</string>
+    <string name="from_your_history">from your watching history ?</string>
+    <string name="from_your_lists">from your Lists ?</string>
+    <string name="gcm_defaultSenderId" translatable="false">858774962602</string>
+    <string name="genre">Genre</string>
+    <string name="genres_list_is_empty">Genres List is empty</string>
+    <string name="genres_lists_empty">Unable to Get Genres Lists</string>
+    <string name="get_password">Get Password</string>
+    <string name="google_api_key" translatable="false">AIzaSyC17kfr24Rz3Sk1wauKGKq6_pqFcDSX4Ak</string>
+    <string name="google_app_id" translatable="false">1:858774962602:android:a8c5d3f43fe05ee4af6bd3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC17kfr24Rz3Sk1wauKGKq6_pqFcDSX4Ak</string>
+    <string name="google_storage_bucket" translatable="false">easyplex-de52e.appspot.com</string>
+    <string name="grant">GRANT</string>
+    <string name="has_been_started">has been started…</string>
+    <string name="has_started">has been started…</string>
+    <string name="history_cleared">History has been cleared !</string>
+    <string name="home">Home</string>
+    <string name="home_directory">Home</string>
+    <string name="how_to_get_the_code">How to get the code ?</string>
+    <string name="icon_desc" translatable="false">Ad icon</string>
+    <string name="id" translatable="false">ID</string>
+    <string name="if_you_re_having_audio_problems_enable_this_option">If you’re having audio problems, enable this option to support more audio extensions.</string>
+    <string name="image">Image</string>
+    <string name="image_desc" translatable="false">Ad image</string>
+    <string name="introducing_cast">Introducting EasyPlex Cast</string>
+    <string name="invalid_request">Invalid request</string>
+    <string name="ironsource" translatable="false">Ironsource</string>
+    <string name="latest_added">Latest Added</string>
+    <string name="latest_animes">LATEST ANIMES</string>
+    <string name="latest_channels">Latest Channels</string>
+    <string name="latest_episodes">LATEST SERIES EPISODES</string>
+    <string name="latest_episodes_animes">LATEST ANIMES EPISODES</string>
+    <string name="latest_movies_amp_series" translatable="false"><![CDATA[TOP CONTENT]]></string>
+    <string name="latest_series">LATEST SERIES</string>
+    <string name="lbl_day_ago">day ago</string>
+    <string name="lbl_days_ago">days ago</string>
+    <string name="lbl_hr_ago">hr ago</string>
+    <string name="lbl_hrs_ago">hrs ago</string>
+    <string name="lbl_justnow">Just Now</string>
+    <string name="lbl_lstweek_ago">last week</string>
+    <string name="lbl_min_ago">min ago</string>
+    <string name="lbl_mins_ago">mins ago</string>
+    <string name="lbl_month_ago">months ago</string>
+    <string name="lbl_onemonth_ago">1 month ago</string>
+    <string name="lbl_oneyear_ago">last year</string>
+    <string name="lbl_seconds_ago">seconds ago</string>
+    <string name="lbl_week_ago">weeks ago</string>
+    <string name="lbl_year_ago">years ago</string>
+    <string name="lecture">Watch Now</string>
+    <string name="library">Library</string>
+    <string name="list_add_later">Add some items to find them later</string>
+    <string name="lists_animes">Lists of Animes</string>
+    <string name="lists_movies">Lists of Movies</string>
+    <string name="lists_series">Lists of Series</string>
+    <string name="lists_streaming">Lists of Streaming</string>
+    <string name="live_text">LIVE</string>
+    <string name="loading_rewards">Loading Reward</string>
+    <string name="lock">Lock</string>
+    <string name="login">L O G I N</string>
+    <string name="login_to_comment">You need to login to able to add a comment !</string>
+    <string name="login_to_subscribe">Login First to be able to subscribe</string>
+    <string name="main_player">Main Player</string>
+    <string name="manage_profiles">Manage Profiles</string>
+    <string name="media_otpions">Media Options</string>
+    <string name="media_route_menu_title">Cast</string>
+    <string name="menu">Menu</string>
+    <string name="more_details">More details</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="movie_cast_label">Casts</string>
+    <string name="movie_genres_text" translatable="false">Thriller, Action, Sci Fi </string>
+    <string name="movie_original_label" translatable="false">Movie</string>
+    <string name="movie_overview_label" translatable="false">Synopsis</string>
+    <string name="movie_overview_text" translatable="false">A ten year old girl who wanders away from her parents along a path that leads to a
+        world ruled by strange and unusual monster-like animals. Her parents have been changed into pigs along with others
+        inside a bathhouse full of these creatures. Will she ever see the world how it once was?</string>
+    <string name="movie_rating" translatable="false">8.5</string>
+    <string name="movie_release_label" translatable="false">Release Date</string>
+    <string name="movies">Movies</string>
+    <string name="movies_amp_series" translatable="false"><![CDATA[MOVIES & Series]]></string>
+    <string name="msg_to_confirm">Check your inbox or spam folders , you can click restart when you complete the confirmation !</string>
+    <string name="music">Music</string>
+    <string name="mx_player">MX PLAYER</string>
+    <string name="my_downloads">DOWNLOADS</string>
+    <string name="mylist">My List</string>
+    <string name="name">Name</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="need_storage_permission">\" needs storage permission to display file list\"</string>
+    <string name="networks">Networks</string>
+    <string name="networks_list_is_empty">Networks List is empty</string>
+    <string name="new_episodes">NEW EPISODES</string>
+    <string name="new_releases">NEW RELEASES</string>
+    <string name="new_this_week">NEW THIS WEEK</string>
+    <string name="next_episode">Next Episode</string>
+    <string name="no">No</string>
+    <string name="no_download_movies_added">No Downloads Added</string>
+    <string name="no_list_result">Your favorites list is empty</string>
+    <string name="no_media_error_message" translatable="false">A MediaModel needs to be passed to the intent on activity start to play media</string>
+    <string name="no_relateds_movies_found">No Relateds Movies Found</string>
+    <string name="no_trailer_has_been_found_click_below_to_search_on_youtube">No Trailer has been found , click below to search on youtube</string>
+    <string name="no_upcoming_movies_added">No Upcoming Movies Added</string>
+    <string name="non_verified">- Non Verified</string>
+    <string name="not_available">N/A</string>
+    <string name="not_found_series">The Series not found in our database !</string>
+    <string name="nothing_selected">Nothing Selected</string>
+    <string name="oh_darn_we_don_t_have_that">Oh darn. We don\'t have that</string>
+    <string name="ok">OK</string>
+    <string name="oops">Oops</string>
+    <string name="open_navigation_drawer">Open navigation drawer</string>
+    <string name="open_using">Open using</string>
+    <string name="partial_download_not_supported">This download doesn\'t support pause and downloading by pieces</string>
+    <string name="password">Password</string>
+    <string name="path">Path</string>
+    <string name="path_pause" translatable="false">M11,10 L17,10 17,26 11,26 M20,10 L26,10 26,26 20,26</string>
+    <string name="path_play" translatable="false">M11,10 L18,13.74 18,22.28 11,26 M18,13.74 L26,18 26,18 18,22.28</string>
+    <string name="pause">Pause</string>
+    <string name="pause_all">Pause all</string>
+    <string name="pay_with_pagseguro">Pay With PagSeguro</string>
+    <string name="pay_with_razorpay">Pay With RazorPay</string>
+    <string name="payment_failed_please_try_again">Payment failed – please try again</string>
+    <string name="pending">Pending</string>
+    <string name="perm_denied_title">Permission denied</string>
+    <string name="perm_denied_warning">Without this permission app can\'t save files in memory on some devices and versions of Android. The app will not work properly. Are you sure you want to deny this permission?</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="phone_is_empty">Please fill the phone number</string>
+    <string name="pinned">PINNED</string>
+    <string name="place">place</string>
+    <string name="plan_name">NAME</string>
+    <string name="play_media_as_embed">Play Media As Embed</string>
+    <string name="play_next">Play Next</string>
+    <string name="play_now">Play Now</string>
+    <string name="play_premium_content_without_restrictions">Play Premium content without restrictions</string>
+    <string name="play_something">Play Something</string>
+    <string name="play_trailer">Play Trailer</string>
+    <string name="play_with_web_video_caster">Play with Web Video Caster</string>
+    <string name="playback_setting_speed_title">Playback Speed</string>
+    <string name="playback_speed">Playback Speed</string>
+    <string name="playback_speed_a_half" translatable="false">0.5x</string>
+    <string name="playback_speed_a_quarter" translatable="false">0.25x</string>
+    <string name="playback_speed_normal">Normal</string>
+    <string name="playback_speed_one_and_a_half" translatable="false">1.5x</string>
+    <string name="playback_speed_one_and_a_quarter" translatable="false">1.25x</string>
+    <string name="playback_speed_one_and_three_quarter" translatable="false">1.75x</string>
+    <string name="playback_speed_three_quarter" translatable="false">0.75x</string>
+    <string name="playback_speed_two" translatable="false">2x</string>
+    <string name="player_169" translatable="false">16:9</string>
+    <string name="player_43" translatable="false">4:3</string>
+    <string name="player_default">default</string>
+    <string name="player_fullscreen">full screen</string>
+    <string name="player_room">Zoom</string>
+    <string name="player_substitles">Substitle…</string>
+    <string name="please_press_to_close_this_page">Please Press to close this page</string>
+    <string name="please_try_another_genre">Please try another genre.</string>
+    <string name="please_uninstall_your_sniffer_to_be_able_to_use_the_app">Please Uninstall Your Sniffer to be able to use the app !</string>
+    <string name="popular_casters">POPULAR CASTERS</string>
+    <string name="popular_series">POPULAR SERIES</string>
+    <string name="pref_auto_connect_summary">Auto connect when opening the add dialog</string>
+    <string name="pref_auto_connect_title">Auto connect</string>
+    <string name="pref_autostart_summary">Run the app after start device and start downloads, if they weren\'t manually paused</string>
+    <string name="pref_autostart_title">Autostart</string>
+    <string name="pref_battery_control_summary">All downloads will be paused if the battery level goes below %1$d%%. Limit doesn\'t apply at the time of charging</string>
+    <string name="pref_battery_control_title">Battery control</string>
+    <string name="pref_browser_allow_java_script_title">Allow Java Script</string>
+    <string name="pref_browser_allow_popup_windows_title">Allow popup windows</string>
+    <string name="pref_browser_bottom_address_bar_summary">The address bar will be located at the bottom of the screen</string>
+    <string name="pref_browser_bottom_address_bar_title">Address bar at the bottom</string>
+    <string name="pref_browser_cache_category">Cache</string>
+    <string name="pref_browser_clear_cache_done">The cache is cleared</string>
+    <string name="pref_browser_clear_cache_title">Clear cache</string>
+    <string name="pref_browser_cookies_category">Cookies</string>
+    <string name="pref_browser_delete_cookies_done">Deleted all the cookies</string>
+    <string name="pref_browser_delete_cookies_title">Delete cookies</string>
+    <string name="pref_browser_disable_from_system_summary">Browser will not be available for opening links</string>
+    <string name="pref_browser_disable_from_system_title">Disable browser from the system</string>
+    <string name="pref_browser_do_not_track_summary">Send a “Do Not Track” request to websites you visit</string>
+    <string name="pref_browser_do_not_track_title">Do Not Track</string>
+    <string name="pref_browser_enable_caching_title">Enable caching</string>
+    <string name="pref_browser_enable_cookies_title">Enable cookies</string>
+    <string name="pref_browser_hide_menu_icon_summary">Hide browser icon from the main screen menu</string>
+    <string name="pref_browser_hide_menu_icon_title">Hide icon from menu</string>
+    <string name="pref_browser_launcher_icon_title">Browser icon in the launcher</string>
+    <string name="pref_browser_search_engine_title">Search engine</string>
+    <string name="pref_browser_start_page_title">Start page</string>
+    <string name="pref_cpu_do_not_sleep_summary">Enabling this will increase the battery usage. Use this option if the download speed reduces when screen turns off</string>
+    <string name="pref_cpu_do_not_sleep_title">Keep CPU awake</string>
+    <string name="pref_custom_battery_control_dialog_summary">Setting a custom battery percentage for the application to watch for will have a negative impact on battery life while downloads are occurring. Are you sure you want to enable this?</string>
+    <string name="pref_custom_battery_control_summary">Set a custom percentage to pause downloads at if the battery drops below the given threshold. Enabling this will ignore the default %1$d%% threshold</string>
+    <string name="pref_custom_battery_control_title">Custom battery percentage</string>
+    <string name="pref_custom_battery_control_value_title">Battery control percentage</string>
+    <string name="pref_delete_file_if_error_title">Delete file if an error occurs</string>
+    <string name="pref_download_only_when_charging_summary">If enabled, downloading will occur only during charging. All downloads will pause when not connected to charger</string>
+    <string name="pref_download_only_when_charging_title">Download only when charging</string>
+    <string name="pref_enable_roaming_summary">Download only if the device isn\'t roaming</string>
+    <string name="pref_enable_roaming_title">Enable roaming</string>
+    <string name="pref_finish_notify_title">Finish notification</string>
+    <string name="pref_header_appearance">Appearance</string>
+    <string name="pref_header_behavior">Behavior</string>
+    <string name="pref_header_browser">Browser</string>
+    <string name="pref_header_limitations">Limitations</string>
+    <string name="pref_header_storage">Storage</string>
+    <string name="pref_key_auto_connect" translatable="false">pref_key_auto_connect</string>
+    <string name="pref_key_autostart" translatable="false">pref_key_autostart</string>
+    <string name="pref_key_battery_control" translatable="false">pref_key_battery_control</string>
+    <string name="pref_key_browser_allow_java_script" translatable="false">pref_key_browser_allow_java_script</string>
+    <string name="pref_key_browser_allow_popup_windows" translatable="false">pref_key_browser_allow_popup_windows</string>
+    <string name="pref_key_browser_bottom_address_bar" translatable="false">pref_key_browser_bottom_address_bar</string>
+    <string name="pref_key_browser_disable_from_system" translatable="false">pref_key_browser_disable_from_system</string>
+    <string name="pref_key_browser_do_not_track" translatable="false">pref_key_browser_do_not_track</string>
+    <string name="pref_key_browser_enable_caching" translatable="false">pref_key_browser_enable_caching</string>
+    <string name="pref_key_browser_enable_cookies" translatable="false">pref_key_browser_enable_cookies</string>
+    <string name="pref_key_browser_hide_menu_icon" translatable="false">pref_key_browser_hide_menu_icon</string>
+    <string name="pref_key_browser_launcher_icon" translatable="false">pref_key_browser_launcher_icon</string>
+    <string name="pref_key_browser_search_engine" translatable="false">pref_key_browser_search_engine</string>
+    <string name="pref_key_browser_start_page" translatable="false">pref_key_browser_start_page</string>
+    <string name="pref_key_cpu_do_not_sleep" translatable="false">pref_key_cpu_do_not_sleep</string>
+    <string name="pref_key_custom_battery_control" translatable="false">pref_key_custom_battery_control</string>
+    <string name="pref_key_custom_battery_control_value" translatable="false">pref_key_custom_battery_control_value</string>
+    <string name="pref_key_delete_file_if_error" translatable="false">pref_key_delete_file_if_error</string>
+    <string name="pref_key_download_only_when_charging" translatable="false">pref_key_download_only_when_charging</string>
+    <string name="pref_key_enable_roaming" translatable="false">pref_key_enable_roaming</string>
+    <string name="pref_key_filemanager_last_dir" translatable="false">pref_key_filemanager_last_dir</string>
+    <string name="pref_key_finish_notify" translatable="false">pref_key_finish_notify</string>
+    <string name="pref_key_led_indicator_color_notify" translatable="false">pref_key_led_indicator_color_notify</string>
+    <string name="pref_key_led_indicator_notify" translatable="false">pref_key_led_indicator_notify</string>
+    <string name="pref_key_max_active_downloads" translatable="false">pref_key_max_active_downloads</string>
+    <string name="pref_key_max_download_retries" translatable="false">pref_key_max_download_retries</string>
+    <string name="pref_key_move_after_download" translatable="false">pref_key_move_after_download</string>
+    <string name="pref_key_move_after_download_in" translatable="false">pref_key_move_after_download_in</string>
+    <string name="pref_key_notify_sound" translatable="false">pref_key_notify_sound</string>
+    <string name="pref_key_pending_notify" translatable="false">pref_key_pending_notify</string>
+    <string name="pref_key_play_sound_notify" translatable="false">pref_key_play_sound_notify</string>
+    <string name="pref_key_preallocate_disk_space" translatable="false">pref_key_preallocate_disk_space</string>
+    <string name="pref_key_progress_notify" translatable="false">pref_key_progress_notify</string>
+    <string name="pref_key_replace_duplicate_downloads" translatable="false">pref_key_replace_duplicate_downloads</string>
+    <string name="pref_key_save_downloads_in" translatable="false">pref_key_save_downloads_in</string>
+    <string name="pref_key_speed_limit" translatable="false">pref_key_speed_limit</string>
+    <string name="pref_key_theme" translatable="false">pref_key_theme</string>
+    <string name="pref_key_timeout" translatable="false">pref_key_timeout</string>
+    <string name="pref_key_umnetered_connections_only" translatable="false">pref_key_umnetered_connections_only</string>
+    <string name="pref_key_user_agent" translatable="false">pref_key_user_agent</string>
+    <string name="pref_key_vibration_notify" translatable="false">pref_key_vibration_notify</string>
+    <string name="pref_led_indicator_color_notify_title">LED indicator color</string>
+    <string name="pref_led_indicator_notify_title">LED indicator</string>
+    <string name="pref_max_active_downloads_title">Maximum active downloads</string>
+    <string name="pref_max_download_retries_dialog_msg">0 - without retries</string>
+    <string name="pref_max_download_retries_title">Maximum number of download retries</string>
+    <string name="pref_move_after_download_in_title">Move after download in</string>
+    <string name="pref_move_after_download_title">Move after download</string>
+    <string name="pref_notification_category">Notification settings</string>
+    <string name="pref_notify_sound_title">Notification sound</string>
+    <string name="pref_pending_notify_title">Pending notification</string>
+    <string name="pref_play_sound_notify_title">Play sound</string>
+    <string name="pref_power_management_category">Power management</string>
+    <string name="pref_preallocate_disk_space_summary">Available for Android 5.0 Lollipop and above</string>
+    <string name="pref_preallocate_disk_space_title">Pre-allocate disk space for the file</string>
+    <string name="pref_progress_notify_title">Progress notification</string>
+    <string name="pref_replace_duplicate_downloads_summary">Replace duplicate downloads (with the same URL) when added that are already in the list</string>
+    <string name="pref_replace_duplicate_downloads_title">Replace duplicate downloads</string>
+    <string name="pref_save_downloads_in_title">Save downloads in</string>
+    <string name="pref_speed_limit_dialog_hint">Set speed in KiB/s (0 - without limit)</string>
+    <string name="pref_speed_limit_title">Speed limit for one piece</string>
+    <string name="pref_theme_black_value" translatable="false">2</string>
+    <string name="pref_theme_category">Theme settings</string>
+    <string name="pref_theme_dark_value" translatable="false">1</string>
+    <string name="pref_theme_light_value" translatable="false">0</string>
+    <string name="pref_theme_title">Theme</string>
+    <string name="pref_timeout_summary">The number of milliseconds to wait before the connection timed out. Zero is interpreted as an infinite timeout</string>
+    <string name="pref_timeout_title">Timeout</string>
+    <string name="pref_umnetered_connections_only_summary">Download only over unmetered connections (for example, Wi-Fi or Ethernet)</string>
+    <string name="pref_umnetered_connections_only_title">Unmetered connections only</string>
+    <string name="pref_vibration_notify_title">Vibration</string>
+    <string name="prefer_extension_decoders">Prefer extension decoders</string>
+    <string name="prefs_header_application">Application Behavior</string>
+    <string name="prefs_header_application_summary">Control how the application behaves on the TV
+    </string>
+    <string name="prefs_volume_default">device</string>
+    <string name="prefs_volume_dialog_title">Volume Assignment</string>
+    <string name="prefs_volume_title">Volume Assignment</string>
+    <string name="prefs_volume_title_summary">Controls %1$s</string>
+    <string name="premuim">Premuim</string>
+    <string name="privacy_amp_policy"><![CDATA[Privacy & Policy]]></string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="profile_added">Profile Added Successfully</string>
+    <string name="profile_limit">you cannot create more than 5 profiles on the same account</string>
+    <string name="profile_name_placeholder">Profile Name...</string>
+    <string name="profile_update_error">\"Your profile is not  updated ! \"</string>
+    <string name="profile_updated">\"Your profile has been updated successfully ! \"</string>
+    <string name="project_id" translatable="false">easyplex-de52e</string>
+    <string name="queue_download_message_fragment">This is where you\'ll see the shows and movies in queue mode. try to add some download and Check back later to see what we\'ve found</string>
+    <string name="queue_is_empty">Queue is empty !</string>
+    <string name="queue_item_added_to_play_next">An item was added to play next</string>
+    <string name="queue_item_added_to_queue">An item was added to the queue</string>
+    <string name="queue_list">Queue</string>
+    <string name="queue_tag_item">queue-tag-item</string>
+    <string name="quota_exceeded">The SMS quota for the project has been exceeded</string>
+    <string name="rating_sent">Review has been sent Successfully</string>
+    <string name="ready_5sec"> will be ready in 5 sec </string>
+    <string name="recommended_for_you">RECOMMENDED FOR YOU</string>
+    <string name="redownload">Redownload</string>
+    <string name="referer" translatable="false">HTTP Referer</string>
+    <string name="referer_description">%1$s header</string>
+    <string name="register">R E G I S T E R</string>
+    <string name="register_sucess">The Registration was successful</string>
+    <string name="relateds">Relateds</string>
+    <string name="release_date">RELEASE DATE</string>
+    <string name="remove_watch_list">Removed From Watchlist</string>
+    <string name="removed_mylist">Removed: </string>
+    <string name="replace_file">Replace file</string>
+    <string name="report">Report</string>
+    <string name="report_broken_link">Report Broken Link</string>
+    <string name="report_sent">Your report has been submitted successfully</string>
+    <string name="resend_token">Resend Token</string>
+    <string name="reset_your_password">Reset Your Password</string>
+    <string name="rest_confirmation_mail">\"A reset confirmation email sent to \"</string>
+    <string name="restart">Restart</string>
+    <string name="resume">Resume</string>
+    <string name="resume_all">Resume all</string>
+    <string name="resumes">Resume</string>
+    <string name="review_require_login">Login is required to be able to rate!</string>
+    <string name="review_sent">Review has been sent successfully</string>
+    <string name="rewards_ads_not_ready">The rewarded ad wasn\'t ready yet</string>
+    <string name="root_warning">You cannot run the app on a rooted device !</string>
+    <string name="rooted_message">You cannot run the app on a rooted device !</string>
+    <string name="sample_list_load_error">One or more sample lists failed to load</string>
+    <string name="save_file">Save file</string>
+    <string name="screen_locked">Screen Locked</string>
+    <string name="search">Search</string>
+    <string name="search_movies_series">Search Movies, Series,Animes,Streaming…</string>
+    <string name="search_on_youtube">Search on YouTube</string>
+    <string name="search_results">Search Results</string>
+    <string name="seasons">Seasons</string>
+    <string name="seasons_8" translatable="false">Seasons:8</string>
+    <string name="select_all">Select all</string>
+    <string name="select_folder_to_save">Select the folder to save</string>
+    <string name="select_qualities">Select Quality</string>
+    <string name="select_quality">Select Source Quality</string>
+    <string name="select_subs">Select Substitle</string>
+    <string name="select_subs_player">Select Subs..</string>
+    <string name="send">Send</string>
+    <string name="send_reset_token">Send Reset Token</string>
+    <string name="send_text_to_clipboard">Copy</string>
+    <string name="series">Series</string>
+    <string name="servers">Servers</string>
+    <string name="settings">Settings</string>
+    <string name="share">Share</string>
+    <string name="share_msg">Hi,I would like to share with you this media called </string>
+    <string name="share_url">Share URL</string>
+    <string name="share_via">Share via</string>
+    <string name="show_queue">Show Queue</string>
+    <string name="shutdown">Shutdown</string>
+    <string name="signup">SIGN UP FOR AN ACCOUNT?</string>
+    <string name="skip">S K I P</string>
+    <string name="skip_recap">SKIP INTRO</string>
+    <string name="sms_sent">The SMS verification code has been sent to the provided phone number</string>
+    <string name="sniffer_message">You Cannot Run Any Sniffer when the app is running !</string>
+    <string name="sorry">SORRY !</string>
+    <string name="sorry_this_content_is_only_available_for_easyplex_vip_users">Sorry,this content is only available Premuim  users</string>
+    <string name="sort_by">Sort by</string>
+    <string name="source_quality">Select Source Quality</string>
+    <string name="speed_normal">Normal</string>
+    <string name="sponsored">Sponsored</string>
+    <string name="starring">Starring</string>
+    <string name="start_watching">START WATCHING</string>
+    <string name="startapp" translatable="false">StartApp</string>
+    <string name="status">status</string>
+    <string name="stop">Stop</string>
+    <string name="stopped">Stopped</string>
+    <string name="storage_free_space">Free space: %1$s</string>
+    <string name="storage_permission_denied">Permission to access storage was denied</string>
+    <string name="storage_warning">Storage access permission not given</string>
+    <string name="story">Story</string>
+    <string name="streaming">Streaming</string>
+    <string name="streaming_home">STREAMING</string>
+    <string name="sub_setting_clear_cache_end">of space</string>
+    <string name="sub_setting_clear_cache_start">Free up</string>
+    <string name="submit">Submit</string>
+    <string name="subscribe">SUBSCRIBE</string>
+    <string name="subscribe_now">SUBSCRIBE NOW</string>
+    <string name="substitle_size">Substitle Size</string>
+    <string name="substitles">Substitles</string>
+    <string name="substitles_background">Substitles Background</string>
+    <string name="substitles_empty">No Substitles Found for this media</string>
+    <string name="successful_payment">Successful Payment</string>
+    <string name="suggest_success">Your Suggestions has been submitted successfully</string>
+    <string name="suggested_programmes">Suggested Programes</string>
+    <string name="suggestions">Suggestions</string>
+    <string name="suggestions_is_only_for_logged_users">Suggestions is only for Logged users</string>
+    <string name="support">SUPPORT</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="system_file_manager_not_found">System file manager not found</string>
+    <string name="system_manager">System manager</string>
+    <string name="tap_to_unlock">Tap to Unlock</string>
+    <string name="text_copied_to_clipboard">Text copied to clipboard</string>
+    <string name="thank_you">Thank You!</string>
+    <string name="the_rewarded_ad_wasn_t_loaded_yet_or_completed">The rewarded ad wasn\'t loaded yet or Completed</string>
+    <string name="the_transaction_was_successful">The transaction was successful</string>
+    <string name="theme_settings_apply_after_reboot">Theme settings will be applied after restarting the app</string>
+    <string name="there_are_no_comments">No Comments</string>
+    <string name="this_content_if_only_for_vip">This Content if only for VIP</string>
+    <string name="title">TITLE</string>
+    <string name="track_selection_title">Select tracks</string>
+    <string name="trailer_loading">Trailer Loading</string>
+    <string name="trailer_not_found">No Trailer Found</string>
+    <string name="trending_now">TRENDING NOW</string>
+    <string name="try_easyplex_vip">Subscribe From Today</string>
+    <string name="try_searching_for_another_movie_show">Try Searching for another movie,show</string>
+    <string name="turn_off_ads_banner_interstitial_ads">Turn Off ads (Banner,Interstitial ads)</string>
+    <string name="type_comment">Type a word to able to comment !</string>
+    <string name="type_to_comment">Type a word to able to comment !</string>
+    <string name="unable_cast">Unable To Connect to cast</string>
+    <string name="unable_to_create_file">Unable to create file. Please try to select another folder</string>
+    <string name="unable_to_get_genres">Unable to Get Genres Lists</string>
+    <string name="unable_to_open_folder">Unable to open selected folder. Please try to select another folder</string>
+    <string name="unable_to_register_please_try_again">Unable to register please try again</string>
+    <string name="unexpected_intent_action">Unexpected intent action: <ns1:g id="action">%1$s</ns1:g></string>
+    <string name="unityads" translatable="false">UnityAds</string>
+    <string name="unlock_control">Unlock Control ?</string>
+    <string name="unmetered_connections_only">Unmetered connections only</string>
+    <string name="up_next">Up Next in : </string>
+    <string name="upcoming">Upcoming</string>
+    <string name="update">Update</string>
+    <string name="update_message">update message</string>
+    <string name="update_profile">U P D A T E</string>
+    <string name="upload_avatar">Upload Avatar</string>
+    <string name="user_EasyPlex_com" translatable="false">user@EasyPlex.com</string>
+    <string name="using_1dm">USING 1DM</string>
+    <string name="using_adm">USING ADM</string>
+    <string name="using_app">APP</string>
+    <string name="valid_until" translatable="false">Valid until : 09–20-2020</string>
+    <string name="verified">- Verified</string>
+    <string name="verify">Verify</string>
+    <string name="verify_email_address">Verify Email Address</string>
+    <string name="version">EASYPLEX: %1$s</string>
+    <string name="version_2_0">Version 2.0</string>
+    <string name="video_qualities">Video Qualities</string>
+    <string name="views">views: </string>
+    <string name="vip">VIP</string>
+    <string name="vip_features">With VIP. Watch thousands of shows and movies, with plans starting at $2.99/month.</string>
+    <string name="vlc">VLC</string>
+    <string name="vpn_message">You are using vpn turn it off to countinue … !</string>
+    <string name="vungle" translatable="false">Vungle</string>
+    <string name="waiting_for_network">Waiting for network</string>
+    <string name="waiting_for_retry">Waiting for retry</string>
+    <string name="warning">Warning</string>
+    <string name="watch_live_streaming">Watch Live Streaming</string>
+    <string name="watch_video_ads_to_unlock">Unlock the stream</string>
+    <string name="web_video_caster">Web Video Caster</string>
+    <string name="webview_is_required">WebView is required to work</string>
+    <string name="who_s_watching">Who\'s Watching ?</string>
+    <string name="wi_fi_only">Wi-Fi Only</string>
+    <string name="write_comment">Write a a comment…</string>
+    <string name="write_something">Write something …</string>
+    <string name="yes">Yes</string>
+    <string name="yobex">https://codecanyon.net/user/yobex</string>
+    <string name="your_email_is_not_verified">Your Email is not verified !</string>
+    <style name="AppTextField" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxBackgroundMode">outline</item>
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/main_color</item>
+        <item name="mediaRouteButtonTint">@color/grey_11</item>
+        <item name="alertDialogTheme">@style/AppThemeDialog</item>
+        <item name="bottomSheetDialogTheme">@style/ReaderBottomSheelDialog</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:actionModeBackground">@color/bottomnavigationbgcolor</item>
+        <item name="android:actionMenuTextColor">@color/grey_11</item>
+        <item name="windowSplashScreenBackground">@color/fragment_content_detail_overlay_end</item>
+
+    </style>
+    <style name="AppTheme.AdAttribution">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:text">Ad attribution</item>
+        <item name="android:background">#FFCC66</item>
+        <item name="android:width">15dp</item>
+        <item name="android:height">15dp</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.Material3.Dark.ActionBar"/>
+    <style name="AppTheme.Black" parent="BaseTheme.Black"/>
+    <style name="AppTheme.Dark" parent="BaseTheme.Dark"/>
+    <style name="AppTheme.Dialog" parent="BaseTheme.Dialog"/>
+    <style name="AppTheme.Dialog.Black" parent="BaseTheme.Dialog.Black"/>
+    <style name="AppTheme.Dialog.Dark" parent="BaseTheme.Dialog.Dark"/>
+    <style name="AppTheme.Launcher" parent="BaseTheme.Launcher"/>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="AppTheme.Settings" parent="BaseTheme.Settings"/>
+    <style name="AppTheme.Settings.Black" parent="BaseTheme.Settings.Black"/>
+    <style name="AppTheme.Settings.Dark" parent="BaseTheme.Settings.Dark"/>
+    <style name="AppTheme.Translucent" parent="BaseTheme.Translucent"/>
+    <style name="AppTheme.Translucent.Black" parent="BaseTheme.Translucent.Black"/>
+    <style name="AppTheme.Translucent.Dark" parent="BaseTheme.Translucent.Dark"/>
+    <style name="AppThemeDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorPrimary">@color/main_color</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+    </style>
+    <style name="BaseTheme" parent="Theme.MaterialComponents.Light">
+        <item name="colorSurface">@color/foreground</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorOnBackground">@color/text_primary</item>
+        <item name="android:actionModeBackground">@color/toolbar</item>
+        <item name="actionModeBackground">@color/toolbar</item> 
+        <item name="actionBarPopupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu</item>
+        <item name="popupMenuStyle">@style/PopupMenu</item> 
+        <item name="android:alertDialogTheme">@style/AppTheme.Dialog</item>
+        <item name="alertDialogTheme">@style/AppTheme.Dialog</item> 
+
+        <item name="background">@color/background</item>
+        <item name="backgroundDialog">@color/background_dialog</item>
+        <item name="foreground">@color/foreground</item>
+        <item name="defaultRectRipple">@drawable/default_rect_ripple</item>
+        <item name="defaultRoundRipple">@drawable/default_round_ripple</item>
+        <item name="transparentRoundRipple">@drawable/transparent_round_ripple</item>
+        <item name="transparentRectRipple">@drawable/transparent_rect_ripple</item>
+        <item name="divider">@drawable/divider</item>
+        <item name="dialogRectRipple">@drawable/default_rect_ripple</item>
+        <item name="dialogRoundRipple">@drawable/default_round_ripple</item>
+        <item name="selectableColor">@color/selectable</item>
+        <item name="selectableDrawer">@color/selectable_drawer</item>
+        <item name="menuIconTint">@android:color/black</item>
+        <item name="toolbarColor">@color/toolbar</item>
+        <item name="statusBarColor">@color/status_bar</item>
+        <item name="colorWarning">@color/warning</item>
+        <item name="colorOk">@color/ok</item>
+
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/text_primary</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent_dark</item>
+        <item name="colorOnSecondary">@color/text_primary</item>
+        <item name="colorError">@color/error</item>
+        <item name="colorOnError">@android:color/white</item>
+        <item name="textInputStyle">@style/AppTextField</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionModeOverlay">true</item>
+    </style>
+    <style name="BaseTheme.Black" parent="BaseTheme.Dark">
+        <item name="colorSurface">@color/foreground_dark</item>
+        <item name="android:colorBackground">@android:color/black</item>
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:actionModeBackground">@android:color/black</item>
+        <item name="actionModeBackground">@android:color/black</item> 
+        <item name="android:alertDialogTheme">@style/AppTheme.Dialog.Black</item>
+        <item name="alertDialogTheme">@style/AppTheme.Dialog.Black</item> 
+
+        <item name="background">@android:color/black</item>
+        <item name="backgroundDialog">@color/background_dialog_black</item>
+        <item name="foreground">@android:color/black</item>
+        <item name="defaultRectRipple">@drawable/default_rect_ripple_black</item>
+        <item name="defaultRoundRipple">@drawable/default_round_ripple_black</item>
+        <item name="dialogRectRipple">@drawable/dialog_rect_ripple_black</item>
+        <item name="dialogRoundRipple">@drawable/dialog_round_ripple_black</item>
+        <item name="toolbarColor">@android:color/black</item>
+        <item name="statusBarColor">@android:color/black</item>
+    </style>
+    <style name="BaseTheme.Dark" parent="ThemeOverlay.MaterialComponents.Dark">
+        <item name="colorSurface">@color/foreground_dark</item>
+        <item name="colorOnSurface">@color/text_primary_inverse</item>
+        <item name="android:colorBackground">@color/background_dark</item>
+        <item name="colorOnBackground">@color/text_primary_inverse</item>
+        <item name="android:actionModeBackground">@color/toolbar_dark</item>
+        <item name="actionModeBackground">@color/toolbar_dark</item> 
+        <item name="actionBarPopupTheme">@style/ThemeOverlay.AppCompat.Dark</item>
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat.Dark</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu_Dark</item>
+        <item name="popupMenuStyle">@style/PopupMenu_Dark</item> 
+        <item name="android:alertDialogTheme">@style/AppTheme.Dialog.Dark</item>
+        <item name="alertDialogTheme">@style/AppTheme.Dialog.Dark</item> 
+
+        <item name="background">@color/background_dark</item>
+        <item name="backgroundDialog">@color/background_dialog_dark</item>
+        <item name="foreground">@color/foreground_dark</item>
+        <item name="defaultRectRipple">@drawable/default_rect_ripple_dark</item>
+        <item name="defaultRoundRipple">@drawable/default_round_ripple_dark</item>
+        <item name="transparentRoundRipple">@drawable/transparent_round_ripple_dark</item>
+        <item name="transparentRectRipple">@drawable/transparent_rect_ripple_dark</item>
+        <item name="divider">@drawable/divider_dark</item>
+        <item name="dialogRectRipple">@drawable/dialog_rect_ripple_dark</item>
+        <item name="dialogRoundRipple">@drawable/dialog_round_ripple_dark</item>
+        <item name="selectableColor">@color/selectable_dark</item>
+        <item name="selectableDrawer">@color/selectable_drawer_dark</item>
+        <item name="menuIconTint">@android:color/white</item>
+        <item name="toolbarColor">@color/toolbar_dark</item>
+        <item name="statusBarColor">@color/dark_theme_status_bar</item>
+        <item name="colorWarning">@color/warning_light</item>
+        <item name="colorOk">@color/ok_light</item>
+
+        <item name="colorPrimary">@color/primary_light</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/text_primary</item>
+        <item name="colorSecondary">@color/accent_light</item>
+        <item name="colorSecondaryVariant">@color/accent_dark</item>
+        <item name="colorOnSecondary">@color/text_primary</item>
+        <item name="colorError">@color/error_light</item>
+        <item name="colorOnError">@android:color/white</item>
+        <item name="textInputStyle">@style/AppTextField</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionModeOverlay">true</item>
+    </style>
+    <style name="BaseTheme.Dialog" parent="Theme.MaterialComponents.Light.Dialog">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/text_primary</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent_dark</item>
+        <item name="colorOnSecondary">@color/text_primary</item>
+        <item name="android:windowBackground">@drawable/background_dialog_rounded</item>
+
+        <item name="android:bottomBright">@color/background_dialog</item>
+        <item name="android:bottomDark">@color/background_dialog</item>
+        <item name="android:bottomMedium">@color/background_dialog</item>
+        <item name="android:centerBright">@color/background_dialog</item>
+        <item name="android:centerDark">@color/background_dialog</item>
+        <item name="android:centerMedium">@color/background_dialog</item>
+        <item name="android:fullBright">@color/background_dialog</item>
+        <item name="android:fullDark">@color/background_dialog</item>
+        <item name="android:topBright">@color/background_dialog</item>
+        <item name="android:topDark">@color/background_dialog</item>
+    </style>
+    <style name="BaseTheme.Dialog.Black" parent="BaseTheme.Dialog.Dark">
+        <item name="android:windowBackground">@drawable/background_dialog_rounded_black</item>
+
+        <item name="android:bottomBright">@color/background_dialog_black</item>
+        <item name="android:bottomDark">@color/background_dialog_black</item>
+        <item name="android:bottomMedium">@color/background_dialog_black</item>
+        <item name="android:centerBright">@color/background_dialog_black</item>
+        <item name="android:centerDark">@color/background_dialog_black</item>
+        <item name="android:centerMedium">@color/background_dialog_black</item>
+        <item name="android:fullBright">@color/background_dialog_black</item>
+        <item name="android:fullDark">@color/background_dialog_black</item>
+        <item name="android:topBright">@color/background_dialog_black</item>
+        <item name="android:topDark">@color/background_dialog_black</item>
+    </style>
+    <style name="BaseTheme.Dialog.Dark" parent="Theme.MaterialComponents.Dialog">
+        <item name="colorPrimary">@color/primary_light</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/text_primary</item>
+        <item name="colorSecondary">@color/accent_light</item>
+        <item name="colorSecondaryVariant">@color/accent_dark</item>
+        <item name="colorOnSecondary">@color/text_primary</item>
+        <item name="android:windowBackground">@drawable/background_dialog_rounded_dark</item>
+
+        <item name="android:bottomBright">@color/background_dialog_dark</item>
+        <item name="android:bottomDark">@color/background_dialog_dark</item>
+        <item name="android:bottomMedium">@color/background_dialog_dark</item>
+        <item name="android:centerBright">@color/background_dialog_dark</item>
+        <item name="android:centerDark">@color/background_dialog_dark</item>
+        <item name="android:centerMedium">@color/background_dialog_dark</item>
+        <item name="android:fullBright">@color/background_dialog_dark</item>
+        <item name="android:fullDark">@color/background_dialog_dark</item>
+        <item name="android:topBright">@color/background_dialog_dark</item>
+        <item name="android:topDark">@color/background_dialog_dark</item>
+    </style>
+    <style name="BaseTheme.EmptyView" parent="@style/TextAppearance.MaterialComponents.Headline4">
+        <item name="android:gravity">center</item>
+        <item name="android:visibility">gone</item>
+    </style>
+    <style name="BaseTheme.Launcher" parent="BaseTheme">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+
+        <item name="statusBarColor">@color/primary_dark</item>
+    </style>
+    <style name="BaseTheme.Settings" parent="BaseTheme">
+        <item name="android:layout">@layout/fragment_custom_preference</item>
+
+        <item name="statusBarColor">@color/status_bar</item>
+    </style>
+    <style name="BaseTheme.Settings.Black" parent="BaseTheme.Black">
+        <item name="android:layout">@layout/fragment_custom_preference</item>
+
+        <item name="statusBarColor">@android:color/black</item>
+    </style>
+    <style name="BaseTheme.Settings.Dark" parent="BaseTheme.Dark">
+        <item name="android:layout">@layout/fragment_custom_preference</item>
+
+        <item name="statusBarColor">@color/dark_theme_status_bar</item>
+    </style>
+    <style name="BaseTheme.Translucent" parent="BaseTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@null</item>
+
+        <item name="statusBarColor">@color/status_bar</item>
+    </style>
+    <style name="BaseTheme.Translucent.Black" parent="BaseTheme.Black">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@null</item>
+
+        <item name="statusBarColor">@android:color/black</item>
+    </style>
+    <style name="BaseTheme.Translucent.Dark" parent="BaseTheme.Dark">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@null</item>
+
+        <item name="statusBarColor">@color/dark_theme_status_bar</item>
+    </style>
+    <style name="BottomNavigationView" parent="@style/TextAppearance.Material3.LabelMedium">
+        <item name="android:textSize">10sp</item>
+    </style>
+    <style name="BottomNavigationView.Active" parent="@style/TextAppearance.AppCompat.Caption">
+        <item name="android:textSize">11sp</item>
+    </style>
+    <style name="BottomSheetStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="behavior_peekHeight">512dp</item>
+    </style>
+    <style name="BrowserContextMenuItem" parent="@style/TextAppearance.MaterialComponents.Body1">
+        <item name="android:drawablePadding">24dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:background">?attr/transparentRectRipple</item>
+    </style>
+    <style name="Button.Primary.Borderless" parent="@style/Widget.AppCompat.Button.Borderless.Colored">
+        <item name="android:textColor">@color/colorPrimary</item>
+    </style>
+    <style name="CardWidgetStyle" parent="@android:style/Theme.DeviceDefault">
+        <item name="editTextStyle">@style/EditTextOverride</item>
+        <item name="android:editTextStyle">@style/EditTextOverride</item>
+    </style>
+    <style name="CustomCardCorners" parent="@style/Widget.MaterialComponents.CardView">
+        <item name="shapeAppearanceOverlay">@style/ShapeAppearance_custom_corners</item>
+    </style>
+    <style name="CustomCastExpandedController" parent="CastExpandedController"/>
+    <style name="CustomCastIntroOverlay" parent="CastIntroOverlay">
+        <item name="castButtonTextAppearance">@style/TextAppearance.CustomCastIntroOverlay.Button
+        </item>
+        <item name="castTitleTextAppearance">@style/TextAppearance.CustomCastIntroOverlay.Title
+        </item>
+    </style>
+    <style name="CustomCastMiniController" parent="CastMiniController">
+        <item name="castShowImageThumbnail">true</item>
+        <item name="castTitleTextAppearance">@style/TextAppearance.AppCompat.Display1</item>
+        <item name="castSubtitleTextAppearance">@style/TextAppearance.AppCompat.Caption</item>
+        <item name="castBackground">#FFFFFF</item>
+        <item name="castProgressBarColor">#FFFFFF</item>
+        <item name="castPlayButtonDrawable">@drawable/cast_ic_mini_controller_play</item>
+        <item name="castPauseButtonDrawable">@drawable/cast_ic_mini_controller_pause</item>
+        <item name="castStopButtonDrawable">@drawable/cast_ic_mini_controller_stop</item>
+        <item name="castLargePlayButtonDrawable">@drawable/cast_ic_mini_controller_play_large</item>
+        <item name="castLargePauseButtonDrawable">@drawable/cast_ic_mini_controller_pause_large</item>
+        <item name="castLargeStopButtonDrawable">@drawable/cast_ic_mini_controller_stop_large</item>
+        <item name="castSkipPreviousButtonDrawable">@drawable/cast_ic_mini_controller_skip_prev</item>
+        <item name="castSkipNextButtonDrawable">@drawable/cast_ic_mini_controller_skip_next</item>
+        <item name="castRewind30ButtonDrawable">@drawable/cast_ic_mini_controller_rewind30</item>
+        <item name="castForward30ButtonDrawable">@drawable/cast_ic_mini_controller_forward30</item>
+        <item name="castMuteToggleButtonDrawable">@drawable/cast_ic_mini_controller_mute</item>
+        <item name="castClosedCaptionsButtonDrawable">@drawable/cast_ic_mini_controller_closed_caption</item>
+    </style>
+    <style name="Download.Orange" parent="@style/AppTheme">
+        <item name="colorControlNormal">@color/white</item>
+        <item name="colorControlActivated">@color/grey_11</item>
+        <item name="colorControlHighlight">@color/grey_11</item>
+        <item name="android:editTextColor">@color/grey_11</item>
+    </style>
+    <style name="EasyTabStyle" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="EditText.Orange" parent="@style/AppTheme">
+        <item name="colorControlNormal">@color/main_color</item>
+        <item name="colorControlActivated">@color/main_color</item>
+        <item name="colorControlHighlight">@color/main_color</item>
+        <item name="android:editTextColor">@color/main_color</item>
+
+    </style>
+    <style name="EditTextOverride" parent="@android:style/Widget.EditText">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textColorHint">@color/grey_11</item>
+    </style>
+    <style name="H100">
+        <item name="android:textSize">11sp</item>
+        <item name="android:textColor">#fff0f1f5</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:lineSpacingExtra">1dp</item>
+        <item name="android:alpha">0.9</item>
+    </style>
+    <style name="L_Micro">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:fontFamily">@font/vaud_black</item>
+    </style>
+    <style name="MYBottomSheetStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@color/transparent</item>
+    </style>
+    <style name="MyAlertDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:colorBackground">#424242</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowMinWidthMajor">@android:dimen/dialog_min_width_major</item>
+        <item name="android:windowMinWidthMinor">@android:dimen/dialog_min_width_minor</item>
+        <item name="android:background">@drawable/tv_auto_play_overlay</item>
+        <item name="android:colorPrimary">#ffffff</item>
+        <item name="android:colorAccent">@color/main_color</item>
+        <item name="colorAccent">@color/main_color</item>
+        <item name="android:textSize">16sp</item>
+        <item name="textColorAlertDialogListItem">#b3b3b3</item>
+        <item name="android:textColor">#e6e6e6</item>
+
+    </style>
+    <style name="MyBottomSheetDialogTheme" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/MYBottomSheetStyle</item>
+    </style>
+    <style name="PlayerSeekBar">
+        <item name="android:paddingLeft">7dp</item>
+        <item name="android:paddingTop">6dp</item>
+        <item name="android:paddingRight">7dp</item>
+        <item name="android:paddingBottom">6dp</item>
+        <item name="android:maxHeight">@dimen/pixel_4dp</item>
+        <item name="android:progressDrawable">@drawable/tubi_tv_seek_bar</item>
+        <item name="android:minHeight">@dimen/pixel_4dp</item>
+        <item name="android:thumb">@drawable/tubi_tv_drawable_scrubber_selector</item>
+    </style>
+    <style name="PlayerSeekBarBrightness">
+        <item name="android:paddingLeft">7dp</item>
+        <item name="android:paddingTop">6dp</item>
+        <item name="android:paddingRight">7dp</item>
+        <item name="android:paddingBottom">6dp</item>
+        <item name="android:progressDrawable">@drawable/tubi_tv_seek_bar</item>
+        <item name="android:minHeight">@dimen/pixel_4dp</item>
+        <item name="android:thumb">@drawable/tubi_tv_drawable_scrubber_selector</item>
+    </style>
+    <style name="PopupMenu" parent="ThemeOverlay.MaterialComponents.Light">
+        <item name="android:popupBackground">@drawable/popup_menu_light</item>
+    </style>
+    <style name="PopupMenu_Dark" parent="ThemeOverlay.MaterialComponents.Dark">
+        <item name="android:popupBackground">@drawable/popup_menu_dark</item>
+    </style>
+    <style name="ProgressTheme">
+        <item name="colorAccent">#000000</item>
+    </style>
+    <style name="ReaderBottomSheelDialog" parent="Theme.Design.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/BottomSheetStyle</item>
+    </style>
+    <style name="RippleStyleBlack" parent="RippleStyleWhite">
+        <item name="mrl_rippleColor">#8096989A</item>
+    </style>
+    <style name="RippleStyleWhite">
+        <item name="mrl_rippleOverlay">true</item>
+        <item name="mrl_rippleColor">#80FFFFFF</item>
+        <item name="mrl_rippleHover">true</item>
+        <item name="mrl_rippleAlpha">0.2</item>
+    </style>
+    <style name="ShapeAppearance_custom_corners" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopLeft">4dp</item>
+        <item name="cornerSizeTopRight">4dp</item>
+    </style>
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">#000</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="StyleToolBarWhite">
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:textColorSecondary">@android:color/white</item>
+        <item name="actionMenuTextColor">@android:color/white</item>
+    </style>
+    <style name="TextAppearance.CustomCastIntroOverlay.Button" parent="android:style/TextAppearance">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="TextAppearance.CustomCastIntroOverlay.Title" parent="android:style/TextAppearance.Large">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="TextCaption" parent="@style/TextAppearance.MaterialComponents.Caption">
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextInputLayoutErrorStyle" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/main_color</item>
+        <item name="android:textSize">@dimen/pixel_10dp</item>
+    </style>
+    <style name="Theme.CastVideosDark" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="castMiniControllerStyle">@style/CustomCastMiniController</item>
+        <item name="castIntroOverlayStyle">@style/CustomCastIntroOverlay</item>
+        <item name="castExpandedControllerStyle">@style/CustomCastExpandedController</item>
+        <item name="castExpandedControllerToolbarStyle">
+            @style/ThemeOverlay.AppCompat.Dark.ActionBar
+        </item>
+    </style>
+    <style name="TitleText" parent="@style/TextAppearance.MaterialComponents.Button">
+        <item name="android:textColor">@color/grey_11</item>
+        <item name="android:layout_marginBottom">8dp</item>
+    </style>
+    <style name="Toolbar.Light" parent="@style/AppTheme">
+        <item name="colorControlNormal">@color/grey_11</item>
+        <item name="android:textColorPrimary">@color/grey_60</item>
+    </style>
+    <style name="TrackSelectionDialogThemeOverlay" parent="ThemeOverlay.AppCompat.Dialog.Alert">
+        <item name="windowNoTitle">false</item>
+    </style>
+    <style name="TubiPlayerTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:keepScreenOn">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:layoutDirection">ltr</item>
+
+    </style>
+    <style name="Widget.AppCompat.ProgressBar.Horizontal" parent="@style/Base.Widget.AppCompat.ProgressBar.Horizontal"/>
+    <style name="myRecyclerViewStyle">
+        
+        <item name="android:clipChildren">true</item>
+        <item name="android:clipToPadding">false</item>
+        <item name="android:paddingBottom">@dimen/activity_vertical_margin</item>
+        <item name="android:paddingLeft">@dimen/activity_horizontal_margin</item>
+        <item name="android:paddingRight">@dimen/activity_horizontal_margin</item>
+        <item name="android:paddingTop">@dimen/activity_vertical_margin</item>
+        <item name="android:scrollbarStyle">outsideOverlay</item>
+        <item name="android:scrollbars">vertical</item>
+    </style>
+    <declare-styleable name="AnimatedVectorDrawable">
+        
+        <attr name="android:drawable"/>
+    </declare-styleable>
+    <declare-styleable name="AnimatedVectorDrawableTarget">
+        
+        <attr name="android:name"/>
+        
+        <attr name="android:animation"/>
+    </declare-styleable>
+    <declare-styleable name="Animator">
+        
+        <attr name="android:interpolator"/>
+        
+        <attr name="android:duration"/>
+        
+        <attr name="android:startOffset"/>
+        
+        <attr name="android:repeatCount"/>
+        
+        <attr name="android:repeatMode"/>
+        
+        <attr name="android:valueFrom"/>
+        
+        <attr name="android:valueTo"/>
+        
+        <attr name="vc_valueType">
+            <!-- valueFrom and valueTo are floats. This is the default value is valueType is
+                 unspecified. Note that if either valueFrom or valueTo represent colors
+                 (beginning with "#"), then this attribute is ignored and the color values are
+                 interpreted as integers. -->
+            <enum name="floatType" value="0"/>
+            <!-- valueFrom and valueTo are integers. -->
+            <enum name="intType" value="1"/>
+            <!-- valueFrom and valueTo are paths defined as strings.
+                 This type is used for path morphing in AnimatedVectorDrawable. -->
+            <enum name="pathType" value="2"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="ButtonBarContainerTheme">
+        <attr format="reference" name="metaButtonBarStyle"/>
+        <attr format="reference" name="metaButtonBarButtonStyle"/>
+    </declare-styleable>
+    <declare-styleable name="CircularReveal">
+        <attr format="dimension" name="startRadius"/>
+        <attr format="dimension" name="endRadius"/>
+        <attr format="reference" name="centerOn"/>
+    </declare-styleable>
+    <declare-styleable name="EmptyView">
+        <attr format="string" name="emptyViewMessage"/>
+        <attr format="string" name="emptyViewButtonText"/>
+    </declare-styleable>
+    <declare-styleable name="ExpandableTextView">
+        <attr format="integer" name="animation_duration"/>
+    </declare-styleable>
+    <declare-styleable name="ExpansionHeader">
+        <attr format="string" name="expansion_text"/>
+        <attr format="boolean" name="expansion_expanded"/>
+        <attr format="reference" name="expansion_textAppearance"/>
+    </declare-styleable>
+    <declare-styleable name="FeatureStatusView">
+        <attr format="boolean" name="featureSupported"/>
+        <attr format="string" name="featureDescription"/>
+    </declare-styleable>
+    <declare-styleable name="FilterBox">
+        <attr format="string" name="filterBoxDescription"/>
+    </declare-styleable>
+    <declare-styleable name="ForegroundView">
+        <attr name="android:foreground"/>
+    </declare-styleable>
+    <declare-styleable name="LiftOff">
+        <attr format="dimension" name="initialElevation"/>
+        <attr format="dimension" name="finalElevation"/>
+    </declare-styleable>
+    <declare-styleable name="MorphButton">
+        <attr format="reference" name="vc_startDrawable"/>
+        <attr format="reference" name="vc_endDrawable"/>
+        <attr name="android:scaleType"/>
+        <attr format="boolean" name="vc_autoStartAnimation"/>
+        
+        <attr format="color" name="vc_backgroundTint"/>
+
+        
+        <attr name="vc_backgroundTintMode">
+            <!-- The tint is drawn on top of the drawable.
+                 [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc] -->
+            <enum name="src_over" value="3"/>
+            <!-- The tint is masked by the alpha channel of the drawable. The drawable’s
+                 color channels are thrown out. [Sa * Da, Sc * Da] -->
+            <enum name="src_in" value="5"/>
+            <!-- The tint is drawn above the drawable, but with the drawable’s alpha
+                 channel masking the result. [Da, Sc * Da + (1 - Sa) * Dc] -->
+            <enum name="src_atop" value="9"/>
+            <!-- Multiplies the color and alpha channels of the drawable with those of
+                 the tint. [Sa * Da, Sc * Dc] -->
+            <enum name="multiply" value="14"/>
+            <!-- [Sa + Da - Sa * Da, Sc + Dc - Sc * Dc] -->
+            <enum name="screen" value="15"/>
+            <!-- Combines the tint and drawable color and alpha channels, clamping the
+                 result to valid color values. Saturate(S + D) -->
+            <enum name="add" value="16"/>
+        </attr>
+        
+        <attr format="color" name="vc_foregroundTint"/>
+
+        
+        <attr name="vc_foregroundTintMode">
+            <!-- The tint is drawn on top of the drawable.
+                 [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc] -->
+            <enum name="src_over" value="3"/>
+            <!-- The tint is masked by the alpha channel of the drawable. The drawable’s
+                 color channels are thrown out. [Sa * Da, Sc * Da] -->
+            <enum name="src_in" value="5"/>
+            <!-- The tint is drawn above the drawable, but with the drawable’s alpha
+                 channel masking the result. [Da, Sc * Da + (1 - Sa) * Dc] -->
+            <enum name="src_atop" value="9"/>
+            <!-- Multiplies the color and alpha channels of the drawable with those of
+                 the tint. [Sa * Da, Sc * Dc] -->
+            <enum name="multiply" value="14"/>
+            <!-- [Sa + Da - Sa * Da, Sc + Dc - Sc * Dc] -->
+            <enum name="screen" value="15"/>
+            <!-- Combines the tint and drawable color and alpha channels, clamping the
+                 result to valid color values. Saturate(S + D) -->
+            <enum name="add" value="16"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="PropertyAnimator">
+        
+        <attr name="android:propertyName"/>
+        
+        <attr name="vc_pathData"/>
+    </declare-styleable>
+    <declare-styleable name="StaggeredDistanceSlide">
+        <attr format="integer" name="spread"/>
+    </declare-styleable>
+    <declare-styleable name="StartAnimatable">
+        <attr name="android:src"/>
+    </declare-styleable>
+    <declare-styleable name="SubstitleImageButton">
+        <attr format="reference" name="state_checked"/>
+        <attr format="reference" name="state_not_checked"/>
+    </declare-styleable>
+    <declare-styleable name="TubiExoPlayerView">
+        <attr format="boolean" name="use_artwork"/>
+        <attr format="reference" name="default_artwork"/>
+        <attr format="boolean" name="use_controller"/>
+        <attr name="surface_type"/>
+        <attr name="show_timeout"/>
+        <attr name="rewind_increment"/>
+        <attr name="fastforward_increment"/>
+        <attr name="resize_mode"/>
+        <attr name="player_layout_id"/>
+        <attr name="controller_layout_id"/>
+
+
+    </declare-styleable>
+    <declare-styleable name="TubiPlayerControlView">
+        <attr format="integer" name="tubi_hide_timeout_ms"/>
+    </declare-styleable>
+    <declare-styleable name="TubiPlayerControlViewOld">
+        <attr format="integer" name="show_timeout_ms"/>
+    </declare-styleable>
+    <declare-styleable name="VectorDrawable">
+        
+        <attr name="vc_tint"/>
+        
+        <attr name="vc_tintMode"/>
+        
+        <attr name="vc_autoMirrored"/>
+        
+        <attr name="android:width"/>
+        
+        <attr name="android:height"/>
+        
+        <attr format="float" name="vc_viewportWidth"/>
+        
+        <attr format="float" name="vc_viewportHeight"/>
+        
+        <attr name="android:name"/>
+        
+        <attr name="android:alpha"/>
+    </declare-styleable>
+    <declare-styleable name="VectorDrawableClipPath">
+        
+        <attr name="android:name"/>
+        
+        <attr name="vc_pathData"/>
+    </declare-styleable>
+    <declare-styleable name="VectorDrawableGroup">
+        
+        <attr name="android:name"/>
+        
+        <attr name="android:rotation"/>
+        
+        <attr name="android:pivotX"/>
+        
+        <attr name="android:pivotY"/>
+        
+        <attr format="float" name="vc_translateX"/>
+        
+        <attr format="float" name="vc_translateY"/>
+        
+        <attr name="android:scaleX"/>
+        
+        <attr name="android:scaleY"/>
+    </declare-styleable>
+    <declare-styleable name="VectorDrawablePath">
+        
+        <attr name="android:name"/>
+        
+        <attr format="float" name="vc_strokeWidth"/>
+        
+        <attr format="color" name="vc_strokeColor"/>
+        
+        <attr format="float" name="vc_strokeAlpha"/>
+        
+        <attr format="color" name="vc_fillColor"/>
+        
+        <attr format="float" name="vc_fillAlpha"/>
+        
+        <attr name="vc_pathData"/>
+        
+        <attr format="float" name="vc_trimPathStart"/>
+        
+        <attr format="float" name="vc_trimPathEnd"/>
+        
+        <attr format="float" name="vc_trimPathOffset"/>
+        
+        <attr format="enum" name="vc_strokeLineCap">
+            <enum name="butt" value="0"/>
+            <enum name="round" value="1"/>
+            <enum name="square" value="2"/>
+        </attr>
+        
+        <attr format="enum" name="vc_strokeLineJoin">
+            <enum name="miter" value="0"/>
+            <enum name="round" value="1"/>
+            <enum name="bevel" value="2"/>
+        </attr>
+        
+        <attr format="float" name="vc_strokeMiterLimit"/>
+    </declare-styleable>
+    <declare-styleable name="dynamic_style_attrs">
+        <attr format="reference" name="background"/>
+        <attr format="reference" name="backgroundDialog"/>
+        <attr format="reference" name="foreground"/>
+        <attr format="reference" name="popupTheme"/>
+        <attr format="reference" name="divider"/>
+        <attr format="reference" name="defaultRectRipple"/>
+        <attr format="reference" name="defaultRoundRipple"/>
+        <attr format="reference" name="transparentRoundRipple"/>
+        <attr format="reference" name="transparentRectRipple"/>
+        <attr format="reference" name="dialogRectRipple"/>
+        <attr format="reference" name="dialogRoundRipple"/>
+        <attr format="reference" name="selectableColor"/>
+        <attr format="reference" name="selectableDrawer"/>
+        <attr format="reference" name="menuIconTint"/>
+        <attr format="reference" name="toolbarColor"/>
+        <attr format="reference" name="statusBarColor"/>
+        <attr format="reference" name="colorWarning"/>
+        <attr format="reference" name="colorOk"/>
+    </declare-styleable>
+</resources>

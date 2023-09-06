@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "858774962602",
+    "project_id": "easyplex-de52e",
+    "storage_bucket": "easyplex-de52e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858774962602:android:a8c5d3f43fe05ee4af6bd3",
+        "android_client_info": {
+          "package_name": "com.easyplex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858774962602-ihfkj6hjm4og8mrats5q9u2j4pnvbmh8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easyplex",
+            "certificate_hash": "2c514c3d7c0a5e2d24a63b5c2a37870078df0b20"
+          }
+        },
+        {
+          "client_id": "858774962602-s7vkl8nu51u8bqersjrvf9v32s2v3u9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC17kfr24Rz3Sk1wauKGKq6_pqFcDSX4Ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858774962602-s7vkl8nu51u8bqersjrvf9v32s2v3u9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858774962602:android:c58fef0914c5627caf6bd3",
+        "android_client_info": {
+          "package_name": "com.rhythm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858774962602-s7vkl8nu51u8bqersjrvf9v32s2v3u9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC17kfr24Rz3Sk1wauKGKq6_pqFcDSX4Ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858774962602-s7vkl8nu51u8bqersjrvf9v32s2v3u9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858774962602:android:80846db2e8751b30af6bd3",
+        "android_client_info": {
+          "package_name": "com.rhythm.EasyPlexApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858774962602-s7vkl8nu51u8bqersjrvf9v32s2v3u9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC17kfr24Rz3Sk1wauKGKq6_pqFcDSX4Ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858774962602-s7vkl8nu51u8bqersjrvf9v32s2v3u9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

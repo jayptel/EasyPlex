@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.easyplex.app-mergeDebugResources-169:/values-ru-rRU/values-ru-rRU.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-3\\229d8667382c4bd441a1ef6644d7b5cc\\transformed\\jetified-android-image-cropper-2.8.0\\res\\values-ru-rRU\\values-ru-rRU.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,113,171,257,339,412,487",
+                        "endColumns": "57,57,85,81,72,74,76",
+                        "endOffsets": "108,166,252,334,407,482,559"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-3\\fd1cb9964bfc90112b2a345c9535e700\\transformed\\jetified-stripe-3ds2-android-6.1.5\\res\\values-ru-rRU\\values-ru-rRU.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,141,244,311,378,442,529",
+                        "endColumns": "85,102,66,66,63,86,71",
+                        "endOffsets": "136,239,306,373,437,524,596"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "564,650,753,820,887,951,1038",
+                        "endColumns": "85,102,66,66,63,86,71",
+                        "endOffsets": "645,748,815,882,946,1033,1105"
+                    }
+                }
+            ]
+        }
+    ]
+}

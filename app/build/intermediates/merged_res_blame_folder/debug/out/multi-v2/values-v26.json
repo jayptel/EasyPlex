@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.easyplex.app-mergeDebugResources-169:/values-v26/values-v26.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-3\\06de8f5bcac82aa68859af62889c0960\\transformed\\jetified-android-sdk-0.8.8\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "2,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,598",
+                        "endLines": "10,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "593,1215"
+                    },
+                    "to": {
+                        "startLines": "2,26",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,1432",
+                        "endLines": "10,35",
+                        "endColumns": "12,12",
+                        "endOffsets": "593,2049"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-3\\3bcf58cd7c4073a1d938be9049014608\\transformed\\appcompat-1.6.1\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,381,557,796",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,376,552,791,884"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,17,21,25",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "598,673,760,924,1100,1339",
+                        "endLines": "11,12,16,20,24,25",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "668,755,919,1095,1334,1427"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1994 @@
+[
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_edit_bookmark.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_edit_bookmark.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_browser_progress_bar.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/browser_progress_bar.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_default_rect_ripple.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/default_rect_ripple.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_pause_grey600_48dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_pause_grey600_48dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_seek_back.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_seek_back.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_default_rect_touch_black.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/default_rect_touch_black.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_ui_controller_view.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/ui_controller_view.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_row_discover_style.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/row_discover_style.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_down.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_down.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/font_vaud_medium.otf.flat",
+        "source": "com.easyplex.app-main-173:/font/vaud_medium.otf"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_info.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_info.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_delete.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tubi_tv_chromecast_on.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tubi_tv_chromecast_on.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_browser_address_bar.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/browser_address_bar.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_default_round_touch_black.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/default_round_touch_black.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_btn_gradient_adm.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/btn_gradient_adm.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_item_recommended_shadow.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/item_recommended_shadow.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_red_live.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/red_live.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_item_suggest_sha.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/item_suggest_sha.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/color_switch_color_primary.xml.flat",
+        "source": "com.easyplex.app-main-173:/color/switch_color_primary.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_fragment_home.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_bg_gradient_soft.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/bg_gradient_soft.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/menu_browser_bookmark_popup.xml.flat",
+        "source": "com.easyplex.app-main-173:/menu/browser_bookmark_popup.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_browse_fragment.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/browse_fragment.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_notification_smal_size.webp.flat",
+        "source": "com.easyplex.app-main-173:/drawable/notification_smal_size.webp"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_review.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_review.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/font_cairo.ttf.flat",
+        "source": "com.easyplex.app-main-173:/font/cairo.ttf"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_cast_detail.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_cast_detail.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_divider_dark.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/divider_dark.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_divider.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/divider.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_fragment_shadows.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/fragment_shadows.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_activity_embed.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/activity_embed.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_movie_detail.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_movie_detail.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_error_register.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_error_register.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_btn_grey.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/btn_grey.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_arrow_down_gray_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_arrow_down_gray_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_download.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_download.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_home_menu_24dp.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_home_menu_24dp.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_paypal_warning.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_paypal_warning.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/font_vaud_light.otf.flat",
+        "source": "com.easyplex.app-main-173:/font/vaud_light.otf"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_update_alert.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_update_alert.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_splash_screen.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/splash_screen.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ffmpeg.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ffmpeg.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_live.webp.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_live.webp"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_tune.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_tune.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_dialog_round_ripple_black.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/dialog_round_ripple_black.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_watching_yes.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/watching_yes.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_track_selection_dialog.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/track_selection_dialog.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_activity_payment_details.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/activity_payment_details.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_brightness_auto_24dp.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_brightness_auto_24dp.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_vip.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/vip.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_drawer_group_header.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/drawer_group_header.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/font_product_sans_bold.ttf.flat",
+        "source": "com.easyplex.app-main-173:/font/product_sans_bold.ttf"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_favorite.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_favorite.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_report.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_report.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_toolbar_bg.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/toolbar_bg.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_suggest2.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_suggest2.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/menu_browser_bookmarks_action_mode.xml.flat",
+        "source": "com.easyplex.app-main-173:/menu/browser_bookmarks_action_mode.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/xml_pref_limitations.xml.flat",
+        "source": "com.easyplex.app-main-173:/xml/pref_limitations.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_filemanager.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_filemanager.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_include_drawer_header.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/include_drawer_header.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_btn_download.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/btn_download.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_placehoder_episodes.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/placehoder_episodes.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_dialog_round_black.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/dialog_round_black.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_jz_brightness_video.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/jz_brightness_video.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/menu_bottom.xml.flat",
+        "source": "com.easyplex.app-main-173:/menu/bottom.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_default_rect_touch_dark.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/default_rect_touch_dark.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable-hdpi_ic_audio.png.flat",
+        "source": "com.easyplex.app-pngs-166:/drawable-hdpi/ic_audio.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_stripe_warning.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_stripe_warning.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_about_no_download.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_about_no_download.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/menu_main.xml.flat",
+        "source": "com.easyplex.app-main-173:/menu/main.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tubi_tv_chromecast_off.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tubi_tv_chromecast_off.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_discover_placeholder.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/discover_placeholder.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_splash.jpeg.flat",
+        "source": "com.easyplex.app-main-173:/drawable/splash.jpeg"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tubi_tv_seek_bar.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tubi_tv_seek_bar.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_spinner_bg.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/spinner_bg.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_download_list_error.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_download_list_error.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_payment_paypal.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/payment_paypal.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_avatar_default.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/avatar_default.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_calendar_today_grey600_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_calendar_today_grey600_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_arrow_forward_menu_24dp.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_arrow_forward_menu_24dp.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_settings_menu_24dp.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_settings_menu_24dp.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_add_bookmark_menu_24dp.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_add_bookmark_menu_24dp.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_snackbar_login.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/snackbar_login.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_mantenance_mode.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/mantenance_mode.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tubi_tv_fwd_15.webp.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tubi_tv_fwd_15.webp"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/font_product_sans_bold_italic.ttf.flat",
+        "source": "com.easyplex.app-main-173:/font/product_sans_bold_italic.ttf"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_play_arrow_grey600_48dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_play_arrow_grey600_48dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_lock_24dp.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_lock_24dp.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.easyplex.app-main-173:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_text_fields.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_text_fields.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_profiles.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_profiles.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_default_rect_black.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/default_rect_black.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_episode_webview.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/episode_webview.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_activity_main_drawer.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/activity_main_drawer.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_refresh_menu_24dp.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_refresh_menu_24dp.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_activity_main.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_row_item_latest_movies_series.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/row_item_latest_movies_series.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_clear_grey600_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_clear_grey600_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_content_copy_menu_24dp.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_content_copy_menu_24dp.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_activity_login.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_row_item_choosed.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/row_item_choosed.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_send_white_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_send_white_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_brightness_medium_24.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_brightness_medium_24.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_row_season3.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/row_season3.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_refresh.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/font_dinbold.ttf.flat",
+        "source": "com.easyplex.app-main-173:/font/dinbold.ttf"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_search.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_item_download_shadow.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/item_download_shadow.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_warning_white_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_warning_white_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_background_dialog_rounded_dark.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/background_dialog_rounded_dark.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tubi_tv_drawable_chromecast_off_selector.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tubi_tv_drawable_chromecast_off_selector.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_dialog_radius_dark.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/dialog_radius_dark.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_row_item_featured.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/row_item_featured.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_fav.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_fav.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_bottom_actions_player.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/bottom_actions_player.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_row_player_livetv.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/row_player_livetv.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/font_opensans_regular.ttf.flat",
+        "source": "com.easyplex.app-main-173:/font/opensans_regular.ttf"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_expand_arrow.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_expand_arrow.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_pinned.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_pinned.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tubi_tv_drawable_play_selector.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tubi_tv_drawable_play_selector.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_activity_preference.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/activity_preference.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_bg_episodes.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/bg_episodes.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_download.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_download.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_row_seasons2.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/row_seasons2.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_default_round_dark.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/default_round_dark.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_all_inclusive_grey600_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_all_inclusive_grey600_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_delete_downloads.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_delete_downloads.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_row_item_featured_streaming.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/row_item_featured_streaming.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_anime.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_anime.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_streaming_twolines.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_streaming_twolines.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tubi_tv_rew_15_selector.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tubi_tv_rew_15_selector.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_anime_detail.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_anime_detail.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_easyplex_brightness_video.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/easyplex_brightness_video.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_bg_item_upcoming_state.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/bg_item_upcoming_state.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_selected_info_buttons.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/selected_info_buttons.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_mainlogo.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/mainlogo.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_bg_gradient.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/bg_gradient.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_default_round_black.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/default_round_black.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_signal_wifi_off.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_signal_wifi_off.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tubi_tv_drawable_subtitles_off_selector.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tubi_tv_drawable_subtitles_off_selector.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_earth_menu_24dp.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_earth_menu_24dp.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_error_login.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_error_login.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tubi_tv_seek_bar_thumb_pressed_shape.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tubi_tv_seek_bar_thumb_pressed_shape.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_profile.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_profile.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_format_color_bg.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_format_color_bg.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_bg_search_genre.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/bg_search_genre.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_gdpr_basic.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_gdpr_basic.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_right_shadow.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/right_shadow.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_color_state_white_1.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/color_state_white_1.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tubi_tv_pause_large.webp.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tubi_tv_pause_large.webp"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/xml_provider_paths.xml.flat",
+        "source": "com.easyplex.app-main-173:/xml/provider_paths.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_btn_mylist.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/btn_mylist.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_add_black_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_add_black_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_cancel_grey600_24dp.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_cancel_grey600_24dp.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_jz_dialog_progress.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/jz_dialog_progress.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_notifications_play.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_notifications_play.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable-xxhdpi_ic_audio.png.flat",
+        "source": "com.easyplex.app-pngs-166:/drawable-xxhdpi/ic_audio.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_sort_ascending_grey600_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_sort_ascending_grey600_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_row_item_category.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/row_item_category.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_search_menu_24dp.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_search_menu_24dp.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_cursor_green.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/cursor_green.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tubi_tv_fwd_15_selector.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tubi_tv_fwd_15_selector.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_privacy.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_privacy.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_zoom_in.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_zoom_in.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_list_item_cast.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/list_item_cast.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_lock_open_24dp.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_lock_open_24dp.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tubi_tv_play_selector.webp.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tubi_tv_play_selector.webp"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/menu_detached_popup_add_to_queue.xml.flat",
+        "source": "com.easyplex.app-main-173:/menu/detached_popup_add_to_queue.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_episodes_genres.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_episodes_genres.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_popular_casters.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_popular_casters.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_default_rect_ripple_dark.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/default_rect_ripple_dark.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_update_msg.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_update_msg.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_about.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_about.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_stream_detail.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_stream_detail.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable-ldpi_ic_audio.png.flat",
+        "source": "com.easyplex.app-pngs-166:/drawable-ldpi/ic_audio.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_nav_view_item_background.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/nav_view_item_background.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_calendar_yesterday_grey600_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_calendar_yesterday_grey600_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_activity_signup.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_shuffle.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_shuffle.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_suggest_warning.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_suggest_warning.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_layout_episode_notifcation.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/layout_episode_notifcation.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_drag_updown_white_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_drag_updown_white_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_transparent_round_ripple_dark.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/transparent_round_ripple_dark.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_folder_grey600_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_folder_grey600_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_options_users.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_options_users.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_fragment_download_list.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/fragment_download_list.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tubi_tv_seek_bar_progress.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tubi_tv_seek_bar_progress.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_network.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_network.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_clear_mylist.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/clear_mylist.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_error_payment.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_error_payment.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/menu_menu_navigation_drawer_news.xml.flat",
+        "source": "com.easyplex.app-main-173:/menu/menu_navigation_drawer_news.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_added_bookmark_menu_24dp.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_added_bookmark_menu_24dp.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_btn_gradient_white_login.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/btn_gradient_white_login.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_password_updated.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_password_updated.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_comment.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_comment.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_queue_row.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/queue_row.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/font_product_sans_italic.ttf.flat",
+        "source": "com.easyplex.app-main-173:/font/product_sans_italic.ttf"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_btn_premuim.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/btn_premuim.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tubi_tv_seek_bar_thumb_normal_shape.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tubi_tv_seek_bar_thumb_normal_shape.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/menu_menu_main.xml.flat",
+        "source": "com.easyplex.app-main-173:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/font_product_sans_regular.ttf.flat",
+        "source": "com.easyplex.app-main-173:/font/product_sans_regular.ttf"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/xml_pref_headers.xml.flat",
+        "source": "com.easyplex.app-main-173:/xml/pref_headers.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_toolbar.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/toolbar.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_action_alerts_and_states_warning.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_action_alerts_and_states_warning.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_lock_outline_menu_24dp.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_lock_outline_menu_24dp.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tubi_tv_drawable_pause_selector.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tubi_tv_drawable_pause_selector.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_btn_account_type.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/btn_account_type.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_btn_gradient_second_selected.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/btn_gradient_second_selected.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/menu_download_item_popup.xml.flat",
+        "source": "com.easyplex.app-main-173:/menu/download_item_popup.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_done_menu_24dp.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_done_menu_24dp.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_activity_settings_portrait.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/activity_settings_portrait.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_layout_networks.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/layout_networks.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_splash_logo.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/splash_logo.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_download_list_queue.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_download_list_queue.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_row_player_movies_ended.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/row_player_movies_ended.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_view_bg.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/view_bg.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_pause_to_play.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/pause_to_play.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_default_round_ripple_dark.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/default_round_ripple_dark.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_transparent_rect_ripple.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/transparent_rect_ripple.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_default_rect_ripple_black.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/default_rect_ripple_black.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_add_download.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_add_download.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_activity_profiles_selection.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/activity_profiles_selection.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_filmographie.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_filmographie.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_btn_mx.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/btn_mx.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_registration_sucess.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/registration_sucess.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_payment_activity.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/payment_activity.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_email_verify_notice.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_email_verify_notice.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_calendar_week_grey600_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_calendar_week_grey600_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_about_wifi.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_about_wifi.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_bookmark_border_menu_24dp.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_bookmark_border_menu_24dp.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_fragment_shadows_top.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/fragment_shadows_top.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_jz_dialog_progress_bg.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/jz_dialog_progress_bg.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_default_round_ripple.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/default_round_ripple.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable-mdpi_ic_audio.png.flat",
+        "source": "com.easyplex.app-pngs-166:/drawable-mdpi/ic_audio.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_payment_success.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/payment_success.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_row_item_latest_series.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/row_item_latest_series.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/anim_indicator_animator_reverse.xml.flat",
+        "source": "com.easyplex.app-main-173:/anim/indicator_animator_reverse.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_playbutton.webp.flat",
+        "source": "com.easyplex.app-main-173:/drawable/playbutton.webp"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/menu_expanded_controller.xml.flat",
+        "source": "com.easyplex.app-main-173:/menu/expanded_controller.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_bg_vlc.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/bg_vlc.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_clipboard_list.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_clipboard_list.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_activity_edit_profile.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_notifications.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_notifications.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/menu_popup_add_to_queue.xml.flat",
+        "source": "com.easyplex.app-main-173:/menu/popup_add_to_queue.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tubi_tv_drawable_scrubber_selector.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tubi_tv_drawable_scrubber_selector.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_nav_bar_color.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/nav_bar_color.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_btn_quality.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/btn_quality.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_sort_descending_grey600_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_sort_descending_grey600_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_no_trailer.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_no_trailer.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/menu_queue_menu.xml.flat",
+        "source": "com.easyplex.app-main-173:/menu/queue_menu.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_transparent_round_ripple.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/transparent_round_ripple.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_calendar_year_grey600_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_calendar_year_grey600_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_fragment_content_detail_top.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/fragment_content_detail_top.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/font_vaud_black.otf.flat",
+        "source": "com.easyplex.app-main-173:/font/vaud_black.otf"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_play_to_pause.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/play_to_pause.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_activity_password_forget.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/activity_password_forget.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_dialog_rect_dark.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/dialog_rect_dark.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_bg_newepisodes.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/bg_newepisodes.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_about_no_stream_episode.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_about_no_stream_episode.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_rectancle_dots.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/rectancle_dots.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_default_round_touch_dark.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/default_round_touch_dark.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_bottom_test_stream.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_bottom_test_stream.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_lastest_episodes.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_lastest_episodes.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_in_favorite.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_in_favorite.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_bg_item_normal_state.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/bg_item_normal_state.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/xml_searchable.xml.flat",
+        "source": "com.easyplex.app-main-173:/xml/searchable.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable-xhdpi_ic_audio.png.flat",
+        "source": "com.easyplex.app-pngs-166:/drawable-xhdpi/ic_audio.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_genre.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_genre.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_success_payment.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_success_payment.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_content_detail_progress.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/content_detail_progress.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_content_copy_grey600_48dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_content_copy_grey600_48dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_background_dialog_rounded.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/background_dialog_rounded.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_main_toolbar.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/main_toolbar.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tubi_tv_rew_15_pressed.webp.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tubi_tv_rew_15_pressed.webp"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_remove_movie_from_history.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_remove_movie_from_history.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_spinner_dra.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/spinner_dra.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_dialog_rect_ripple_dark.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/dialog_rect_ripple_dark.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_play_vector.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/play_vector.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_settings.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/xml_pref_behavior.xml.flat",
+        "source": "com.easyplex.app-main-173:/xml/pref_behavior.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_download_home.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_download_home.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_content_main.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_comment.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_comment.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_download_list_finish.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_download_list_finish.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_apps.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_apps.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_mainborder_bg.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/mainborder_bg.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/xml_pref_storage.xml.flat",
+        "source": "com.easyplex.app-main-173:/xml/pref_storage.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/menu_filemanager.xml.flat",
+        "source": "com.easyplex.app-main-173:/menu/filemanager.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.easyplex.app-main-173:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_visa_new.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_visa_new.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_suggest.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_suggest.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_row_player_episodes.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/row_player_episodes.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tubi_tv_drawable_chromecast_on_selector.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tubi_tv_drawable_chromecast_on_selector.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_main_toolbar_others.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/main_toolbar_others.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/menu_episode_item_popup.xml.flat",
+        "source": "com.easyplex.app-main-173:/menu/episode_item_popup.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_layout_genres.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/layout_genres.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_bg_season_tab.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/bg_season_tab.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_default_rect_dark.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/default_rect_dark.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_popup_menu_dark.9.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/popup_menu_dark.9.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_desktop_menu_24dp.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_desktop_menu_24dp.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_bg_label_rtl.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/bg_label_rtl.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_bottom_stream.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_bottom_stream.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_person.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_exo_track_selection_dialog.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/exo_track_selection_dialog.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_spinner_user_agent_view.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/spinner_user_agent_view.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_serie_details.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/serie_details.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_report.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_report.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tubi_tv_chromecast_on_pressed.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tubi_tv_chromecast_on_pressed.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_bg_episodes_left.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/bg_episodes_left.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_pause_vector.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/pause_vector.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_share_menu_24dp.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_share_menu_24dp.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_browser_bookmarks_list.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_browser_bookmarks_list.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_more_vert_grey600_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_more_vert_grey600_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_queue_activity.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/queue_activity.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_mastercard_new.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_mastercard_new.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_mini_controller_upcoming_stop.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_mini_controller_upcoming_stop.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_home.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_upgrade_background.webp.flat",
+        "source": "com.easyplex.app-main-173:/drawable/upgrade_background.webp"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_fragment_shadow_bottom.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/fragment_shadow_bottom.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_fragment_streaming.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/fragment_streaming.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_dialog_rect_black.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/dialog_rect_black.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_sniffer.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_sniffer.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/font_vaud_thin.otf.flat",
+        "source": "com.easyplex.app-main-173:/font/vaud_thin.otf"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_android_grey600_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_android_grey600_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_right_player_episodes.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/right_player_episodes.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/font_opensans_bold.ttf.flat",
+        "source": "com.easyplex.app-main-173:/font/opensans_bold.ttf"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_tubi_player_view.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/tubi_player_view.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_music_note_grey600_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_music_note_grey600_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_relateds.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_relateds.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_bg_quality.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/bg_quality.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_close.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_add_grey600_24px.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_add_grey600_24px.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tubi_tv_chromecast_off_pressed.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tubi_tv_chromecast_off_pressed.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/menu_comment_item_popup.xml.flat",
+        "source": "com.easyplex.app-main-173:/menu/comment_item_popup.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ranking_tag_background.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ranking_tag_background.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_fragment_search.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_edit_menu_24dp.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_edit_menu_24dp.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_downloads_list.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_downloads_list.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_default_round.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/default_round.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.easyplex.app-main-173:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tubi_tv_seek_bar_bg.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tubi_tv_seek_bar_bg.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/xml_data_extraction_rules.xml.flat",
+        "source": "com.easyplex.app-main-173:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_episodes.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_episodes.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_popup_menu_light.9.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/popup_menu_light.9.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tubi_tv_rew_15.webp.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tubi_tv_rew_15.webp"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_show_streaming.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_show_streaming.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_pause_white_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_pause_white_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_spinner_user_agent_item.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/spinner_user_agent_item.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_calendar_month_grey600_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_calendar_month_grey600_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_confirm_cancel_subscription.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_confirm_cancel_subscription.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_row_substitle.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/row_substitle.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_watchribbon_present.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/watchribbon_present.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_device.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_device.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_play_arrow_white_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_play_arrow_white_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_movie.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_movie.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_main_drawer_content.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/main_drawer_content.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_layout_episodes_fragment.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/layout_episodes_fragment.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_my_download_empty_state.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_my_download_empty_state.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_default_rect_touch.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/default_rect_touch.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_delete_menu_24dp.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_delete_menu_24dp.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_fragment_upcoming.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/fragment_upcoming.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_notavailable.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_notavailable.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tv_auto_play_overlay.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tv_auto_play_overlay.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tubi_tv_seek_bar_secondary_progress.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tubi_tv_seek_bar_secondary_progress.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/font_vaud.otf.flat",
+        "source": "com.easyplex.app-main-173:/font/vaud.otf"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_show_streaming_home.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_show_streaming_home.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_list_item_download.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/list_item_download.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_bg_episodes_rtl.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/bg_episodes_rtl.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/font_opensans_italic.ttf.flat",
+        "source": "com.easyplex.app-main-173:/font/opensans_italic.ttf"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_error_white_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_error_white_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_comments.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_comments.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_select_all_menu_24dp.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_select_all_menu_24dp.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_fragment_content_detail_overlay.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/fragment_content_detail_overlay.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_activity_settings_two_pane.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/activity_settings_two_pane.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/anim_play_to_pause_path.xml.flat",
+        "source": "com.easyplex.app-main-173:/anim/play_to_pause_path.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_download_activity.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/download_activity.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_download_details.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_download_details.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_file_document_grey600_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_file_document_grey600_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_text_input.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_text_input.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_mobile_tubi_tv_subtitles_on.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/mobile_tubi_tv_subtitles_on.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/xml_shortcuts.xml.flat",
+        "source": "com.easyplex.app-main-173:/xml/shortcuts.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_video_grey600_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_video_grey600_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_error.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_error.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_zip_box_grey600_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_zip_box_grey600_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_selected_white_login.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/selected_white_login.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_activity_browser_bottom_app_bar.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/activity_browser_bottom_app_bar.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_border_top.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/border_top.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_bg_label.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/bg_label.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.easyplex.app-main-173:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_plans.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_plans.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_movie.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_movie.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_history.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_history.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tubi_tv_drawable_subtitles_on_selector.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tubi_tv_drawable_subtitles_on_selector.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_fragment_favourite_movies.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/fragment_favourite_movies.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_activity_easyplex_player.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/activity_easyplex_player.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_stop_white_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_stop_white_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_clear_cache.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/clear_cache.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_logo.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/logo.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_upcoming.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_upcoming.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_stop_circle_outline_grey600_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_stop_circle_outline_grey600_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_row.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/row.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_activity_splash.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_like.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_like.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_logout.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_activity_browser_bookmarks.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/activity_browser_bookmarks.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_plans_display.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_plans_display.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_close_menu_24dp.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_close_menu_24dp.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable-anydpi-v24_ic_audio.xml.flat",
+        "source": "com.easyplex.app-pngs-166:/drawable-anydpi-v24/ic_audio.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_slide_episodes_animes.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/slide_episodes_animes.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/menu_browser.xml.flat",
+        "source": "com.easyplex.app-main-173:/menu/browser.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_row_player_movies_list.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/row_player_movies_list.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_drawer_item.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/drawer_item.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_drag_updown_grey_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_drag_updown_grey_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_dialog_round_dark.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/dialog_round_dark.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_payment_success.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_payment_success.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_media_placeholder.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/media_placeholder.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_movies_by_genres.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_movies_by_genres.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_black_radius_square_unselected.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/black_radius_square_unselected.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_fragment_recycler_list_view.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/fragment_recycler_list_view.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_custom_alert.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_custom_alert.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/menu_download_list_action_mode.xml.flat",
+        "source": "com.easyplex.app-main-173:/menu/download_list_action_mode.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_thumb_up.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_thumb_up.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/font_opensans_bolditalic.ttf.flat",
+        "source": "com.easyplex.app-main-173:/font/opensans_bolditalic.ttf"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_subscribe.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_subscribe.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_fragment_custom_preference.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/fragment_custom_preference.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_activity_setting.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_dialog_rect_ripple_black.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/dialog_rect_ripple_black.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_row_seasons.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/row_seasons.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_add_from_queue.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/add_from_queue.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_activity_phone_verification.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/activity_phone_verification.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_bg_substitle.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/bg_substitle.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_activity_basic_example.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/activity_basic_example.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_mini_controller_upcoming_play.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_mini_controller_upcoming_play.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_shortcut_add_foreground.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_shortcut_add_foreground.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_toptten.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_toptten.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_sort_off_grey600_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_sort_off_grey600_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_shuffle_on.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_shuffle_on.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_wifi.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_wifi.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_activity_devices_management.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/activity_devices_management.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_premuim.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_premuim.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_browser_context_menu_dialog.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/browser_context_menu_dialog.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_download_options.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_download_options.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_play.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_mini_play.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_mini_play.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_layout_download_fragment.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/layout_download_fragment.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_item_user_detail.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/item_user_detail.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_dialog_round_ripple_dark.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/dialog_round_ripple_dark.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_vlc.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/vlc.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_activity_main_two_pane.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/activity_main_two_pane.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_image_grey600_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_image_grey600_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_play_circle_outline_grey600_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_play_circle_outline_grey600_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_about_no_download_episode.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_about_no_download_episode.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/xml_pref_appearance.xml.flat",
+        "source": "com.easyplex.app-main-173:/xml/pref_appearance.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_btn_gradient_unselected.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/btn_gradient_unselected.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_btn_gradient_unselected_login.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/btn_gradient_unselected_login.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_stream_error_player.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_stream_error_player.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/font_vaud_bold.otf.flat",
+        "source": "com.easyplex.app-main-173:/font/vaud_bold.otf"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_default_rect.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/default_rect.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_share_normal.webp.flat",
+        "source": "com.easyplex.app-main-173:/drawable/share_normal.webp"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_ads_failed.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_ads_failed.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_activity_filemanager_dialog.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/activity_filemanager_dialog.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_watch_to_unlock.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/watch_to_unlock.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_btn_webcast.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/btn_webcast.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_upcoming_titles_overview.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/upcoming_titles_overview.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_default_round_ripple_black.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/default_round_ripple_black.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_activity_browser_top_app_bar.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/activity_browser_top_app_bar.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_tubi_tv_fwd_15_pressed.webp.flat",
+        "source": "com.easyplex.app-main-173:/drawable/tubi_tv_fwd_15_pressed.webp"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_expansion_header.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/expansion_header.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_bg_loading_subtitles_accent.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/bg_loading_subtitles_accent.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/menu_menu.xml.flat",
+        "source": "com.easyplex.app-main-173:/menu/menu.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_power_white_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_power_white_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_background_dialog_rounded_black.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/background_dialog_rounded_black.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.easyplex.app-main-173:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_transparent_rect_ripple_dark.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/transparent_rect_ripple_dark.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_bg_substitle_detail.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/bg_substitle_detail.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_payment_stripe.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/payment_stripe.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/xml_application_preference.xml.flat",
+        "source": "com.easyplex.app-main-173:/xml/application_preference.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_gon.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/gon.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/anim_indicator_animator.xml.flat",
+        "source": "com.easyplex.app-main-173:/anim/indicator_animator.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_file_grey600_24dp.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_file_grey600_24dp.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_default_round_touch.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/default_round_touch.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_file_download_menu_24dp.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_file_download_menu_24dp.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_imdb.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/imdb.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_dialog_about_no_stream.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/dialog_about_no_stream.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/layout_ad_unified.xml.flat",
+        "source": "com.easyplex.app-main-173:/layout/ad_unified.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_subs_size.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_subs_size.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_speed.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_speed.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/anim_pause_to_play_path.xml.flat",
+        "source": "com.easyplex.app-main-173:/anim/pause_to_play_path.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_right_side.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/right_side.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_btn_gradient_watch_video.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/btn_gradient_watch_video.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_left_shadow.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/left_shadow.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_progressbar_ads.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/progressbar_ads.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_btn_gradient.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/btn_gradient.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_ic_verified_user.xml.flat",
+        "source": "com.easyplex.app-main-173:/drawable/ic_verified_user.xml"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable-xxxhdpi_ic_audio.png.flat",
+        "source": "com.easyplex.app-pngs-166:/drawable-xxxhdpi/ic_audio.png"
+    },
+    {
+        "merged": "com.easyplex.app-merged_res-171:/drawable_mobile_tubi_tv_subtitles_off.png.flat",
+        "source": "com.easyplex.app-main-173:/drawable/mobile_tubi_tv_subtitles_off.png"
+    }
+]

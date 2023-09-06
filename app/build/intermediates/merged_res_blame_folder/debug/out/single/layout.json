@@ -1,0 +1,422 @@
+[
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_comment.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_comment.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_upcoming.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_upcoming.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/queue_row.xml",
+        "source": "com.easyplex.app-main-173:/layout/queue_row.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/layout_networks.xml",
+        "source": "com.easyplex.app-main-173:/layout/layout_networks.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_profiles.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_profiles.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/row_item_choosed.xml",
+        "source": "com.easyplex.app-main-173:/layout/row_item_choosed.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/row_substitle.xml",
+        "source": "com.easyplex.app-main-173:/layout/row_substitle.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/dialog_edit_bookmark.xml",
+        "source": "com.easyplex.app-main-173:/layout/dialog_edit_bookmark.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/fragment_streaming.xml",
+        "source": "com.easyplex.app-main-173:/layout/fragment_streaming.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/payment_activity.xml",
+        "source": "com.easyplex.app-main-173:/layout/payment_activity.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/list_item_cast.xml",
+        "source": "com.easyplex.app-main-173:/layout/list_item_cast.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_popular_casters.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_popular_casters.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/row_player_livetv.xml",
+        "source": "com.easyplex.app-main-173:/layout/row_player_livetv.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/slide_episodes_animes.xml",
+        "source": "com.easyplex.app-main-173:/layout/slide_episodes_animes.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/fragment_download_list.xml",
+        "source": "com.easyplex.app-main-173:/layout/fragment_download_list.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/row_item_featured.xml",
+        "source": "com.easyplex.app-main-173:/layout/row_item_featured.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/activity_splash.xml",
+        "source": "com.easyplex.app-main-173:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_cast_detail.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_cast_detail.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_user_detail.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_user_detail.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/activity_filemanager_dialog.xml",
+        "source": "com.easyplex.app-main-173:/layout/activity_filemanager_dialog.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/row_seasons2.xml",
+        "source": "com.easyplex.app-main-173:/layout/row_seasons2.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/activity_main.xml",
+        "source": "com.easyplex.app-main-173:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_pinned.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_pinned.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/dialog_comments.xml",
+        "source": "com.easyplex.app-main-173:/layout/dialog_comments.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/row_player_episodes.xml",
+        "source": "com.easyplex.app-main-173:/layout/row_player_episodes.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/activity_setting.xml",
+        "source": "com.easyplex.app-main-173:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/activity_main_drawer.xml",
+        "source": "com.easyplex.app-main-173:/layout/activity_main_drawer.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/activity_signup.xml",
+        "source": "com.easyplex.app-main-173:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_show_streaming.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_show_streaming.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/fragment_upcoming.xml",
+        "source": "com.easyplex.app-main-173:/layout/fragment_upcoming.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/row_item_latest_series.xml",
+        "source": "com.easyplex.app-main-173:/layout/row_item_latest_series.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/payment_stripe.xml",
+        "source": "com.easyplex.app-main-173:/layout/payment_stripe.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/right_player_episodes.xml",
+        "source": "com.easyplex.app-main-173:/layout/right_player_episodes.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/activity_browser_top_app_bar.xml",
+        "source": "com.easyplex.app-main-173:/layout/activity_browser_top_app_bar.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_lastest_episodes.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_lastest_episodes.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_history.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_history.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_browser_bookmarks_list.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_browser_bookmarks_list.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/dialog_about_no_stream_episode.xml",
+        "source": "com.easyplex.app-main-173:/layout/dialog_about_no_stream_episode.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_anime.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_anime.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_show_streaming_home.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_show_streaming_home.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/row_item_category.xml",
+        "source": "com.easyplex.app-main-173:/layout/row_item_category.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/payment_success.xml",
+        "source": "com.easyplex.app-main-173:/layout/payment_success.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/row_item_featured_streaming.xml",
+        "source": "com.easyplex.app-main-173:/layout/row_item_featured_streaming.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/browser_progress_bar.xml",
+        "source": "com.easyplex.app-main-173:/layout/browser_progress_bar.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/row_seasons.xml",
+        "source": "com.easyplex.app-main-173:/layout/row_seasons.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_filmographie.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_filmographie.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/layout_genres.xml",
+        "source": "com.easyplex.app-main-173:/layout/layout_genres.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/dialog_error.xml",
+        "source": "com.easyplex.app-main-173:/layout/dialog_error.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_fav.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_fav.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/fragment_search.xml",
+        "source": "com.easyplex.app-main-173:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/upcoming_titles_overview.xml",
+        "source": "com.easyplex.app-main-173:/layout/upcoming_titles_overview.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/row_season3.xml",
+        "source": "com.easyplex.app-main-173:/layout/row_season3.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/registration_sucess.xml",
+        "source": "com.easyplex.app-main-173:/layout/registration_sucess.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/activity_browser_bookmarks.xml",
+        "source": "com.easyplex.app-main-173:/layout/activity_browser_bookmarks.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_profile.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_profile.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/dialog_about_no_download_episode.xml",
+        "source": "com.easyplex.app-main-173:/layout/dialog_about_no_download_episode.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/browser_context_menu_dialog.xml",
+        "source": "com.easyplex.app-main-173:/layout/browser_context_menu_dialog.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_download_home.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_download_home.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/main_toolbar_others.xml",
+        "source": "com.easyplex.app-main-173:/layout/main_toolbar_others.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/browse_fragment.xml",
+        "source": "com.easyplex.app-main-173:/layout/browse_fragment.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/dialog_add_download.xml",
+        "source": "com.easyplex.app-main-173:/layout/dialog_add_download.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/layout_episodes_fragment.xml",
+        "source": "com.easyplex.app-main-173:/layout/layout_episodes_fragment.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/layout_episode_notifcation.xml",
+        "source": "com.easyplex.app-main-173:/layout/layout_episode_notifcation.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/serie_details.xml",
+        "source": "com.easyplex.app-main-173:/layout/serie_details.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/activity_browser_bottom_app_bar.xml",
+        "source": "com.easyplex.app-main-173:/layout/activity_browser_bottom_app_bar.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/row_player_movies_list.xml",
+        "source": "com.easyplex.app-main-173:/layout/row_player_movies_list.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/ui_controller_view.xml",
+        "source": "com.easyplex.app-main-173:/layout/ui_controller_view.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_movie.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_movie.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_toptten.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_toptten.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/activity_phone_verification.xml",
+        "source": "com.easyplex.app-main-173:/layout/activity_phone_verification.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_plans.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_plans.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/activity_edit_profile.xml",
+        "source": "com.easyplex.app-main-173:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_device.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_device.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_episodes_genres.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_episodes_genres.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/download_activity.xml",
+        "source": "com.easyplex.app-main-173:/layout/download_activity.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/include_drawer_header.xml",
+        "source": "com.easyplex.app-main-173:/layout/include_drawer_header.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/layout_download_fragment.xml",
+        "source": "com.easyplex.app-main-173:/layout/layout_download_fragment.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/list_item_download.xml",
+        "source": "com.easyplex.app-main-173:/layout/list_item_download.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/activity_easyplex_player.xml",
+        "source": "com.easyplex.app-main-173:/layout/activity_easyplex_player.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/fragment_home.xml",
+        "source": "com.easyplex.app-main-173:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/browser_address_bar.xml",
+        "source": "com.easyplex.app-main-173:/layout/browser_address_bar.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_relateds.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_relateds.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_genre.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_genre.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/row_player_movies_ended.xml",
+        "source": "com.easyplex.app-main-173:/layout/row_player_movies_ended.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/dialog_about_no_stream.xml",
+        "source": "com.easyplex.app-main-173:/layout/dialog_about_no_stream.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_stream_detail.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_stream_detail.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/dialog_about_no_download.xml",
+        "source": "com.easyplex.app-main-173:/layout/dialog_about_no_download.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/activity_profiles_selection.xml",
+        "source": "com.easyplex.app-main-173:/layout/activity_profiles_selection.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/dialog_download_details.xml",
+        "source": "com.easyplex.app-main-173:/layout/dialog_download_details.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_movie_detail.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_movie_detail.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_streaming_twolines.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_streaming_twolines.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_anime_detail.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_anime_detail.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_download.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_download.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/activity_payment_details.xml",
+        "source": "com.easyplex.app-main-173:/layout/activity_payment_details.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_suggest2.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_suggest2.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/bottom_actions_player.xml",
+        "source": "com.easyplex.app-main-173:/layout/bottom_actions_player.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/activity_devices_management.xml",
+        "source": "com.easyplex.app-main-173:/layout/activity_devices_management.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/activity_login.xml",
+        "source": "com.easyplex.app-main-173:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/fragment_favourite_movies.xml",
+        "source": "com.easyplex.app-main-173:/layout/fragment_favourite_movies.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/row_item_latest_movies_series.xml",
+        "source": "com.easyplex.app-main-173:/layout/row_item_latest_movies_series.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/payment_paypal.xml",
+        "source": "com.easyplex.app-main-173:/layout/payment_paypal.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/row_discover_style.xml",
+        "source": "com.easyplex.app-main-173:/layout/row_discover_style.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/item_network.xml",
+        "source": "com.easyplex.app-main-173:/layout/item_network.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/main_toolbar.xml",
+        "source": "com.easyplex.app-main-173:/layout/main_toolbar.xml"
+    },
+    {
+        "merged": "com.easyplex.app-mergeDebugResources-170:/layout/activity_embed.xml",
+        "source": "com.easyplex.app-main-173:/layout/activity_embed.xml"
+    }
+]

@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="exo_controls_playback_speeds">
+    <item>0,25x</item>
+    <item>0,5x</item>
+    <item>0,75x</item>
+    <item>Normal</item>
+    <item>1,25x</item>
+    <item>1,5x</item>
+    <item>2x</item>
+  </string-array>
+    <color name="orange2">#fff9930d</color>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+    <item quantity="one">Avançar %d segundo</item>
+    <item quantity="other">Avançar %d segundos</item>
+  </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+    <item quantity="one">Retroceder %d segundo</item>
+    <item quantity="other">Retroceder %d segundos</item>
+  </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nova notificação</item>
+    <item quantity="other">%d novas notificações</item>
+  </plurals>
+    <string name="AGREE">ACEITAR</string>
+    <string name="DISAGREE">DISCORDAR</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navegar para casa"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Escolher uma app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESATIVADO"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ATIVADO"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"eliminar"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Função +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"espaço"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Pesquisar…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Partilhar com"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Partilhar com a app <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Reduzir"</string>
+    <string name="about_app">Sobre o App</string>
+    <string name="about_error_login"><![CDATA[Email ou Senha Erradas. Tente logar 3–5x novamente. Se o erro persistir entre vá no Discord e escreva !senha no chat. Vá em Menu > SUPORTE]]></string>
+    <string name="about_no_stream">Não há transmissão para disponível para esse conteudo, volte mais tarde.</string>
+    <string name="about_no_stream_download">Não há download disponível para esse conteudo, volte mais tarde ou entre em contato no discord.</string>
+    <string name="about_no_stream_download_episode">Não há download disponível para esse episódio, volte mais tarde ou entre em contato no discord.</string>
+    <string name="about_us">Suporte</string>
+    <string name="about_wifi_warning">Você escolheu para reproduzir apenas no Wi-fi. Vá na opção de Configurações para alterar a opção.</string>
+    <string name="acc_label_card_number">Número do cartão</string>
+    <string name="acc_label_card_number_node">%s, número do cartão</string>
+    <string name="acc_label_cvc_node">%s, CVC</string>
+    <string name="acc_label_expiry_date">Data de validade</string>
+    <string name="acc_label_expiry_date_node">%s, data de validade</string>
+    <string name="acc_label_zip">C.P.</string>
+    <string name="acc_label_zip_short">C.P.</string>
+    <string name="accept">ACEITAR</string>
+    <string name="access_code">Wrong Access Code</string>
+    <string name="action_clear_queue">Limpar Fila</string>
+    <string name="action_settings">Configurações</string>
+    <string name="actor">Ator</string>
+    <string name="actress">Atriz</string>
+    <string name="ad">Anúncio</string>
+    <string name="add_new_payment_method">Adicionar um novo método de pagamento</string>
+    <string name="add_to_queue">Adicionar a Fila</string>
+    <string name="added">Adicionado %s</string>
+    <string name="added_mylist">\"Added: \"</string>
+    <string name="added_to_watchlist">Added To Watchlist</string>
+    <string name="address_city_required">Introduza a sua cidade</string>
+    <string name="address_country_invalid">O seu país é inválido</string>
+    <string name="address_county_required">Introduza o seu concelho</string>
+    <string name="address_label_address">Endereço</string>
+    <string name="address_label_address_line1">Linha de endereço 1</string>
+    <string name="address_label_address_line1_optional">Linha de endereço 1 (opcional)</string>
+    <string name="address_label_address_line2">Linha de endereço 2</string>
+    <string name="address_label_address_line2_optional">Linha de endereço 2 (opcional)</string>
+    <string name="address_label_address_optional">Endereço (opcional)</string>
+    <string name="address_label_ae_emirate">Emirado</string>
+    <string name="address_label_apt_optional">Apt. (opcional)</string>
+    <string name="address_label_au_suburb_or_city">Subúrbio ou cidade</string>
+    <string name="address_label_bb_jm_parish">Paróquia</string>
+    <string name="address_label_cedex">Cedex</string>
+    <string name="address_label_city">Cidade</string>
+    <string name="address_label_city_optional">Cidade (opcional)</string>
+    <string name="address_label_country">País</string>
+    <string name="address_label_country_or_region">País ou região</string>
+    <string name="address_label_county">Concelho</string>
+    <string name="address_label_county_optional">Concelho (opcional)</string>
+    <string name="address_label_department">Departamento</string>
+    <string name="address_label_district">Distrito</string>
+    <string name="address_label_hk_area">Área</string>
+    <string name="address_label_ie_eircode">Eircode</string>
+    <string name="address_label_ie_townland">Townland</string>
+    <string name="address_label_in_pin">Pin</string>
+    <string name="address_label_island">Ilha</string>
+    <string name="address_label_jp_prefecture">Câmara municipal</string>
+    <string name="address_label_kr_do_si">Do Si</string>
+    <string name="address_label_name">Nome</string>
+    <string name="address_label_neighborhood">Freguesia</string>
+    <string name="address_label_oblast">Oblast</string>
+    <string name="address_label_phone_number">Número de telefone</string>
+    <string name="address_label_phone_number_optional">Número de telefone (opcional)</string>
+    <string name="address_label_post_town">Posto ou localidade</string>
+    <string name="address_label_postal_code">Código postal</string>
+    <string name="address_label_postal_code_optional">Código postal (opcional)</string>
+    <string name="address_label_postcode">Código postal</string>
+    <string name="address_label_postcode_optional">Código postal (opcional)</string>
+    <string name="address_label_province">Província</string>
+    <string name="address_label_province_optional">Província (opcional)</string>
+    <string name="address_label_region_generic">Estado/Província/Região</string>
+    <string name="address_label_region_generic_optional">Estado/Província/Região (opcional)</string>
+    <string name="address_label_state">Estado</string>
+    <string name="address_label_state_optional">Estado (opcional)</string>
+    <string name="address_label_suburb">Subúrbio</string>
+    <string name="address_label_village_township">Município ou localidade</string>
+    <string name="address_label_zip_code">Código postal</string>
+    <string name="address_label_zip_code_optional">Código postal (opcional)</string>
+    <string name="address_label_zip_postal_code">Código postal</string>
+    <string name="address_label_zip_postal_code_optional">Código postal (opcional)</string>
+    <string name="address_name_required">Introduza o seu nome</string>
+    <string name="address_phone_number_required">Introduza o seu número de telefone</string>
+    <string name="address_postal_code_invalid">O seu código postal é inválido.</string>
+    <string name="address_postcode_invalid">O seu código postal é inválido</string>
+    <string name="address_province_required">Introduza a sua província</string>
+    <string name="address_region_generic_required">Introduza o seu Estado/Província/Região</string>
+    <string name="address_required">Introduza o seu endereço</string>
+    <string name="address_state_required">Introduza o seu estado</string>
+    <string name="address_zip_invalid">O seu código postal é inválido.</string>
+    <string name="address_zip_postal_invalid">O seu código postal é inválido</string>
+    <string name="admob">Admob</string>
+    <string name="affirm_buy_now_pay_later">Pagar ao longo do tempo com &lt;img src=\"affirm\">.</string>
+    <string name="afterpay_clearpay_message"><![CDATA[Pagar em <num_installments/> pagamentos sem juros de <installment_price/> com <img/>]]></string>
+    <string name="all_genres">All Genres</string>
+    <string name="allow_notifications">Permitir Notificaçõess</string>
+    <string name="already_have_an_account">Já possui uma conta?</string>
+    <string name="animation">Animation</string>
+    <string name="animes">Animes</string>
+    <string name="app_name">EasyPlex</string>
+    <string name="app_versions">"Version : "</string>
+    <string name="appodeal">Appodeal</string>
+    <string name="are_you_sure_to_delete_from_your_watching_history">Você tem certeza que quer excluir?</string>
+    <string name="are_you_sure_you_want_to_cancel_your_subscription">Tem certeza que quer cancelar sua assinatura?</string>
+    <string name="aspect_ratio">Proporção da Tela</string>
+    <string name="au_becs_account_name">Nome na conta</string>
+    <string name="au_becs_bsb_number">Número de BSB</string>
+    <string name="au_becs_mandate">Ao fornecer os seus dados de conta bancária e ao confirmar este pagamento, declara que concorda com este Pedido de Débito Direto e com o &lt;a href=\"https://stripe.com/au-becs-dd-service-agreement/legal\">contrato de serviços de Pedido de Débito Direto&lt;/a> e autoriza a Stripe Payments Australia Pty Ltd ACN 160 180 343, número de ID de Utilizador de Débito Direto 507156 (“Stripe”) a debitar a sua conta através do Sistema BECS (Bulk Electronic Clearing System) em nome de %s (o \"Comerciante\") em quaisquer montantes comunicados separadamente a si pelo Comerciante. Certifica ainda que é um titular da conta ou um signatário autorizado da conta acima indicada.</string>
+    <string name="audio">Media Options</string>
+    <string name="auto">Auto</string>
+    <string name="auto_play">Auto Reproduzir</string>
+    <string name="autoplay_off">Auto Reproduzir Desativado</string>
+    <string name="autoplay_on">Auto Reproduzir Ativado</string>
+    <string name="back">VOLTAR</string>
+    <string name="bank_account_ending_in">Remover conta bancária que termina em %s</string>
+    <string name="becs_mandate_acceptance">\n    Ao fornecer os seus dados de conta bancária e ao confirmar este pagamento, declara que concorda com este\n    Pedido de Débito Direto e com o contrato de serviços de Pedido de Débito Direto e autoriza a\n    Stripe Payments Australia Pty Ltd ACN 160 180 343, número de ID de Utilizador de Débito Direto 507156\n    (“Stripe”) a debitar a sua conta através do Sistema BECS (Bulk Electronic Clearing System) em\n    nome de %1$s (o \"Comerciante\") em quaisquer montantes comunicados separadamente a si\n    pelo Comerciante. Certifica ainda que é um titular da conta ou um signatário autorizado\n    da conta acima indicada.\n    </string>
+    <string name="becs_widget_account_number">Número de conta</string>
+    <string name="becs_widget_account_number_incomplete">O número da sua conta está incompleto.</string>
+    <string name="becs_widget_account_number_required">O seu número de conta é obrigatório.</string>
+    <string name="becs_widget_bsb">BSB</string>
+    <string name="becs_widget_bsb_incomplete">O BSB que introduziu está incompleto.</string>
+    <string name="becs_widget_bsb_invalid">O BSB que introduziu é inválido.</string>
+    <string name="becs_widget_email">Endereço de email</string>
+    <string name="becs_widget_email_invalid">O seu endereço de email é inválido.</string>
+    <string name="becs_widget_email_required">O seu endereço de email é obrigatório.</string>
+    <string name="becs_widget_name">Nome</string>
+    <string name="becs_widget_name_required">O seu nome é obrigatório.</string>
+    <string name="billing_details">Endereço de faturação</string>
+    <string name="biography">Biography</string>
+    <string name="blank_and_required">Este campo não pode estar em branco.</string>
+    <string name="bottomsheet_action_collapse">Reduza a secção inferior</string>
+    <string name="bottomsheet_action_expand">Expanda a secção inferior</string>
+    <string name="bottomsheet_action_expand_halfway">Expandir até metade</string>
+    <string name="bottomsheet_drag_handle_clicked">Dois toques no indicador para arrastar</string>
+    <string name="bottomsheet_drag_handle_content_description">Indicador para arrastar</string>
+    <string name="by_rating">Por classificação</string>
+    <string name="by_tapping_the_button_you_agree_to_easyplex_term_amp_condition_and_privacy_policy"><![CDATA[By tapping the button, you agree to EasyPlex Term & Condition and Privacy Policy.]]></string>
+    <string name="by_views">By Views</string>
+    <string name="by_year">By Year</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Atender"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Vídeo"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Recusar"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Desligar"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Chamada recebida"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Chamada em curso"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"A filtrar uma chamada recebida…"</string>
+    <string name="cancel">Cancelar</string>
+    <string name="cancel_subscription">Cancelar Assinatura</string>
+    <string name="cannot_extract">Cannot Extract the video from the media</string>
+    <string name="cannot_load_subs">Cannot Load Substitles ...</string>
+    <string name="cant_show">Não é possível mostrar o trailer</string>
+    <string name="captions_built_in">Captions ( Built in )</string>
+    <string name="caracters">Caracters</string>
+    <string name="card_ending_in">%1$s a terminar em %2$s</string>
+    <string name="cast_ad_label">Anúncio</string>
+    <string name="cast_casting_to_device">A transmitir para %1$s</string>
+    <string name="cast_closed_captions">Legendas ocultas</string>
+    <string name="cast_closed_captions_unavailable">Legendas ocultas não disponíveis</string>
+    <string name="cast_connecting_to_device">A ligar a %1$s…</string>
+    <string name="cast_device_chooser_searching_for_devices">A procurar dispositivos</string>
+    <string name="cast_device_chooser_title">Transmita para</string>
+    <string name="cast_disconnect">Desassociar</string>
+    <string name="cast_dynamic_group_name_format">%1$s + %2$d</string>
+    <string name="cast_expanded_controller_ad_image_description">Imagem apresentada enquanto o recetor de transmissão está a reproduzir um anúncio</string>
+    <string name="cast_expanded_controller_ad_in_progress">Anúncio em curso…</string>
+    <string name="cast_expanded_controller_background_image">Imagem do álbum</string>
+    <string name="cast_expanded_controller_live_head_description">A posição atual está no topo da stream em direto.</string>
+    <string name="cast_expanded_controller_live_stream_indicator">Transmissão em direto</string>
+    <string name="cast_expanded_controller_loading">A carregar…</string>
+    <string name="cast_expanded_controller_skip_ad_label">Ignorar anúncio</string>
+    <string name="cast_expanded_controller_skip_ad_text">Pode ignorar o anúncio em %1$d…</string>
+    <string name="cast_forward">Avançar</string>
+    <string name="cast_forward_10">Avançar dez segundos</string>
+    <string name="cast_forward_30">Avançar trinta segundos</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
+    <string name="cast_live_label">EM DIRETO</string>
+    <string name="cast_mute">Desativar som</string>
+    <string name="cast_notification_connected_message">Ligado a %1$s</string>
+    <string name="cast_notification_connecting_message">A ligar a %1$s</string>
+    <string name="cast_notification_default_channel_name">Cast</string>
+    <string name="cast_notification_disconnect">Desligar</string>
+    <string name="cast_pause">Pausar</string>
+    <string name="cast_play">Reproduzir</string>
+    <string name="cast_rewind">Recuar</string>
+    <string name="cast_rewind_10">Recuar dez segundos</string>
+    <string name="cast_rewind_30">Recuar trinta segundos</string>
+    <string name="cast_seek_bar">Controlo de deslize de reprodução</string>
+    <string name="cast_skip_next">Ir para o item seguinte</string>
+    <string name="cast_skip_prev">Ir para o item anterior</string>
+    <string name="cast_stop">Parar</string>
+    <string name="cast_stop_live_stream">Parar stream em direto</string>
+    <string name="cast_tracks_chooser_dialog_audio">Áudio</string>
+    <string name="cast_tracks_chooser_dialog_cancel">Cancelar</string>
+    <string name="cast_tracks_chooser_dialog_closed_captions">Legendas ocultas</string>
+    <string name="cast_tracks_chooser_dialog_default_track_name">Faixa %1$d</string>
+    <string name="cast_tracks_chooser_dialog_none">Nenhum</string>
+    <string name="cast_tracks_chooser_dialog_ok">OK</string>
+    <string name="cast_tracks_chooser_dialog_subtitles">Legendas</string>
+    <string name="cast_unmute">Reativar o som</string>
+    <string name="cast_wifi_warning_description">Certifique-se de que o seu dispositivo e o dispositivo de transmissão estão ligados à mesma rede Wi-Fi. \n\n<a href="https://support.google.com/chromecastbuiltin/answer/3006709">Saiba mais</a></string>
+    <string name="cast_wifi_warning_title">Verifique a sua rede Wi-Fi \n</string>
+    <string name="cast_zero_devices_found">Não foram encontrados dispositivos.\n</string>
+    <string name="cast_zero_devices_found_done_button_label">Concluído</string>
+    <string name="cast_zero_devices_learn_more_description"><a href="https://support.google.com/chromecastbuiltin/answer/3006709">Saiba mais</a> sobre como pode transmitir conteúdo para outros dispositivos.</string>
+    <string name="casters">Casters</string>
+    <string name="change">Alterar</string>
+    <string name="character_counter_content_description">Carateres introduzidos: %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limite de carateres excedido: %1$d de %2$d</string>
+    <string name="check_later">Verificar mais tarde</string>
+    <string name="check_your_inbox">Check your inbox</string>
+    <string name="checking_your_login_info">Checking Your Login Info....</string>
+    <string name="choose">Choose</string>
+    <string name="choose_downloads_options">Escolha as opções de download</string>
+    <string name="choose_season">Choose a season</string>
+    <string name="choose_your_launch_player">Escolha o seu player</string>
+    <string name="clear_cache">Limpar Cache</string>
+    <string name="clear_cache_msg">Essa opção irá limpar o cache deste App!</string>
+    <string name="clear_history">Vocẽ realmente deseja limpar seu histórico?</string>
+    <string name="clear_my_list">Limpar minha lista</string>
+    <string name="clear_text_end_icon_content_description">Limpar texto</string>
+    <string name="clear_watch_history">Limpar o Histórico de Assistidos</string>
+    <string name="close">Fechar</string>
+    <string msgid="406453423630273620" name="close_drawer">"Fechar menu de navegação"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Fechar folha"</string>
+    <string gender="unknown" name="com_facebook_device_auth_instructions">Acede a &lt;b>facebook.com/device&lt;/b> e insere o código mostrado acima.</string>
+    <string gender="unknown" name="com_facebook_image_download_unknown_error">Ocorreu um erro inesperado ao descarregar uma imagem.</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_message">O início de sessão WebView requer a permissão INTERNET</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_title">Erro AndroidManifest</string>
+    <string gender="unknown" name="com_facebook_like_button_liked">Gostaste</string>
+    <string gender="unknown" name="com_facebook_like_button_not_liked">Gosto</string>
+    <string gender="unknown" name="com_facebook_loading">A carregar…</string>
+    <string gender="unknown" name="com_facebook_loginview_cancel_action">Cancelar</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button">Iniciar sessão</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_continue">Continuar com o Facebook</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_long">Iniciar sessão com o Facebook</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_action">Terminar sessão</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_button">Terminar sessão</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_as">Com sessão iniciada como %1$s</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_using_facebook">Com sessão iniciada com o Facebook</string>
+    <string gender="unknown" name="com_facebook_send_button_text">Enviar</string>
+    <string gender="unknown" name="com_facebook_share_button_text">Partilhar</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions">Para associares a tua conta, abre a app Facebook no teu dispositivo móvel e consulta as notificações.</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions_or">- OU -</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_cancel">Não és tu?</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_continue_as">Continuar como %1$s</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_title">Confirmar início de sessão</string>
+    <string gender="unknown" name="com_facebook_tooltip_default">Tens o controlo. Escolhe as informações que queres partilhar com as apps.</string>
+    <string name="comment_deleted">Successfully deleted</string>
+    <string name="comment_not_deleted">could not be deleted</string>
+    <string name="comment_sent">Comment added successfully</string>
+    <string name="comment_size_views">"Comments : "</string>
+    <string name="comments">COMMENTS</string>
+    <string name="comments_size">\" Comments\"</string>
+    <string name="commercial">Comercial</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Ativar</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">O %1$s não funciona enquanto não ativar os serviços do Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Ativar serviços do Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Instalar</string>
+    <string name="common_google_play_services_install_text">O %1$s não é executado sem os Serviços do Google Play, os quais estão em falta no seu dispositivo.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Obter serviços do Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilidade Serviços do Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Erro dos Serviços do Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s está a ter problemas com os Serviços do Google Play. Tente novamente.</string>
+    <string name="common_google_play_services_unsupported_text">Não é possível executar o %1$s sem os Serviços do Google Play, os quais não são compatíveis com o seu dispositivo.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Atualizar</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">O %1$s não é executado enquanto não atualizar os serviços do Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Atualizar serviços do Google Play</string>
+    <string name="common_google_play_services_updating_text">O %1$s não é executado sem os serviços do Google Play, os quais estão a ser atualizados.</string>
+    <string name="common_google_play_services_wear_update_text">É necessária uma nova versão dos serviços do Google Play. Esta será atualizada automaticamente em breve.</string>
+    <string name="common_open_on_phone">Abrir no telemóvel</string>
+    <string name="common_signin_button_text">Iniciar sessão</string>
+    <string name="common_signin_button_text_long">Iniciar sessão com o Google</string>
+    <string name="completed_download_message_fragment">This is where you\'ll see the shows and movies we download for your. Check back later to see what we\'ve found</string>
+    <string name="completed_is_empty">Completed is empty</string>
+    <string name="confirm">Confirmar</string>
+    <string msgid="5912733858573823945" name="confirm_device_credential_password">"Utilizar palavra-passe"</string>
+    <string name="continue_watching">Continuar Assistindo</string>
+    <string msgid="6083905920877235314" name="copy">"Copiar"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Link copiado para a área de transferência."</string>
+    <string name="copyright">Droits D\'auteur © 2021 EASYPLEX. Tous les droits sont réservés.</string>
+    <string name="countdown_wait">You Must wait until the countdown finish before sending the confirmation code again</string>
+    <string name="current_aspect">Proporção Atual</string>
+    <string name="current_background">Cor Atual</string>
+    <string name="current_default_lang2">Current Default Language : %s</string>
+    <string name="current_localtion">"Current location : "</string>
+    <string name="current_location">Current location :</string>
+    <string name="current_size">Tamanho Atual</string>
+    <string name="custom_text_here">Texto Customizado</string>
+    <string name="decilne">RECUSAR</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Entrada inválida"</string>
+    <string msgid="4776854077120974966" name="default_error_msg">"Erro desconhecido."</string>
+    <string name="default_lang_substitles">Default Subtitle Langs..</string>
+    <string name="default_langs_substitles">Default Subtitle Langs..</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Janela pop-up"</string>
+    <string name="delete_payment_method">Eliminar método de pagamento</string>
+    <string name="delete_payment_method_prompt_title">Eliminar método de pagamento?</string>
+    <string name="delete_user">Unable to delete your account !</string>
+    <string name="details">Detalhes</string>
+    <string name="disable_player_ads">Prioridade em Pedidos no Discord</string>
+    <string name="discover">Explorar</string>
+    <string name="done">Concluído</string>
+    <string name="download_disabled">Download system is currently disabled</string>
+    <string name="download_for">Download para </string>
+    <string name="download_location">Download Location</string>
+    <string name="download_premium_content">Download Conteúdo Premium </string>
+    <string name="downloads">Downloads</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Menu pendente"</string>
+    <string name="edit">Editar</string>
+    <string name="edit_profile">Editar Perfil</string>
+    <string name="email">Email</string>
+    <string name="email_is_invalid">O seu email é inválido.</string>
+    <string name="empty_queue">Fila vazia</string>
+    <string name="enable_ffmpeg_extension">Enable FFmpeg extension</string>
+    <string name="enable_software_codec">Enable software codec</string>
+    <string name="enter">Enter</string>
+    <string name="ep_n">EPS Nº</string>
+    <string name="episode">Episode</string>
+    <string name="episodes">Episódios</string>
+    <string name="eps_bank">Banco EPS</string>
+    <string name="err_email">O email precisa ser um endereço válido.</string>
+    <string name="err_name">O campo não pode ser nulo.</string>
+    <string name="err_password">A senha precisa ter no mínimo 6 caracteres de A–Z e 0-9, não pode ter caracteres especiais.</string>
+    <string name="error">Error</string>
+    <string name="error_icon_content_description">Erro</string>
+    <string name="error_occured">An error has been occurred</string>
+    <string name="exit_the_app">Press again to exit app</string>
+    <string name="exo_controls_cc_disabled_description">Ativar legendas</string>
+    <string name="exo_controls_cc_enabled_description">Desativar legendas</string>
+    <string name="exo_controls_fastforward_description">Avançar</string>
+    <string name="exo_controls_fullscreen_enter_description">Mudar para ecrã inteiro</string>
+    <string name="exo_controls_fullscreen_exit_description">Sair do ecrã inteiro</string>
+    <string name="exo_controls_hide">Ocultar controlos do leitor</string>
+    <string name="exo_controls_next_description">Seguinte</string>
+    <string name="exo_controls_overflow_hide_description">Ocultar definições adicionais</string>
+    <string name="exo_controls_overflow_show_description">Mostrar definições adicionais</string>
+    <string name="exo_controls_pause_description">Pausar</string>
+    <string name="exo_controls_play_description">Reproduzir</string>
+    <string name="exo_controls_playback_speed">Velocidade</string>
+    <string name="exo_controls_previous_description">Anterior</string>
+    <string name="exo_controls_repeat_all_description">Modo atual: repet. tudo. Ative/des. repetição.</string>
+    <string name="exo_controls_repeat_off_description">Modo atual: não repetir. Ative/des. repetição.</string>
+    <string name="exo_controls_repeat_one_description">Modo atual: repetir um. Ative/des. repetição.</string>
+    <string name="exo_controls_rewind_description">Recuar</string>
+    <string name="exo_controls_seek_bar_description">Progresso da reprodução</string>
+    <string name="exo_controls_settings_description">Definições</string>
+    <string name="exo_controls_show">Mostrar controlos do leitor</string>
+    <string name="exo_controls_shuffle_off_description">Ativar modo aleatório</string>
+    <string name="exo_controls_shuffle_on_description">Desativar modo aleatório</string>
+    <string name="exo_controls_stop_description">Parar</string>
+    <string name="exo_controls_vr_description">Modo de RV</string>
+    <string name="exo_download_completed">Transferência concluída</string>
+    <string name="exo_download_description">Transferir</string>
+    <string name="exo_download_downloading">A transferir…</string>
+    <string name="exo_download_failed">Falha na transferência</string>
+    <string name="exo_download_notification_channel_name">Transferências</string>
+    <string name="exo_download_paused">Transferências colocadas em pausa</string>
+    <string name="exo_download_paused_for_network">Transferências a aguardar uma rede</string>
+    <string name="exo_download_paused_for_wifi">Transferências a aguardar Wi-Fi</string>
+    <string name="exo_download_removing">A remover as transferências…</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_media_action_repeat_all_description">Repetir tudo</string>
+    <string name="exo_media_action_repeat_off_description">Não repetir nenhum</string>
+    <string name="exo_media_action_repeat_one_description">Repetir um</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Alternativa</string>
+    <string name="exo_track_role_closed_captions">Legendas</string>
+    <string name="exo_track_role_commentary">Comentário</string>
+    <string name="exo_track_role_supplementary">Suplementar</string>
+    <string name="exo_track_selection_auto">Automático</string>
+    <string name="exo_track_selection_none">Nenhuma</string>
+    <string name="exo_track_selection_title_audio">Áudio</string>
+    <string name="exo_track_selection_title_text">Texto</string>
+    <string name="exo_track_selection_title_video">Vídeo</string>
+    <string name="exo_track_stereo">Estéreo</string>
+    <string name="exo_track_surround">Som surround</string>
+    <string name="exo_track_surround_5_point_1">Som surround 5.1</string>
+    <string name="exo_track_surround_7_point_1">Som surround 7.1</string>
+    <string name="exo_track_unknown">Desconhecida</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Avançadas"</string>
+    <string name="expiry_date_hint">MM/AA</string>
+    <string name="expiry_label_short">Validade</string>
+    <string name="exposed_dropdown_menu_content_description">Mostrar menu pendente</string>
+    <string name="external_players">External Players</string>
+    <string name="facebook">Facebook</string>
+    <string name="failed_to_load_required_informations_client_id_is_not_valid">Failed to load required informations , Client ID is not valid</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Copiar link"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Abrir no navegador"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Partilhar link"</string>
+    <string msgid="5462024216548165325" name="fingerprint_dialog_icon_description">"Ícone de impressão digital"</string>
+    <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Toque no sensor de impressões digitais"</string>
+    <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Hardware de impressão digital não disponível."</string>
+    <string msgid="6306988885793029438" name="fingerprint_error_hw_not_present">"Este dispositivo não tem sensor de impressões digitais."</string>
+    <string msgid="7291787166416782245" name="fingerprint_error_lockout">"Demasiadas tentativas. Tente novamente mais tarde."</string>
+    <string msgid="7520712796891883488" name="fingerprint_error_no_fingerprints">"Nenhuma impressão digital registada."</string>
+    <string msgid="7627716295344353987" name="fingerprint_error_user_canceled">"Operação de impressão digital cancelada pelo utilizador."</string>
+    <string msgid="3873359464293253009" name="fingerprint_not_recognized">"Não reconhecida."</string>
+    <string name="forget">Esqueceu a senha ?</string>
+    <string name="form_label_optional">%s (opcional)</string>
+    <string name="fpx_bank_offline">%s - Offline</string>
+    <string name="free">GRÁTIS</string>
+    <string name="free_episodes">Free Episodes</string>
+    <string name="from_history">do seu histórico assistido?</string>
+    <string name="from_your_history">from your watching history ?</string>
+    <string name="from_your_lists">from your Lists ?</string>
+    <string msgid="3791785319221634505" name="generic_error_no_device_credential">"Nenhum PIN, padrão ou palavra-passe definidos."</string>
+    <string msgid="1807436368654974044" name="generic_error_no_keyguard">"Este dispositivo não suporta o PIN, o padrão ou a palavra-passe."</string>
+    <string msgid="7309881387583143581" name="generic_error_user_canceled">"Autenticação cancelada pelo utilizador."</string>
+    <string name="genre">Gêneros</string>
+    <string name="genres_list_is_empty">A Lista de Gêneros está Vazia</string>
+    <string name="genres_lists_empty">Unable to Get Genres Lists</string>
+    <string name="get_password">Get Password</string>
+    <string name="grant">CONCEDER</string>
+    <string name="has_been_started">foi iniciado…</string>
+    <string name="has_started">foi iniciado…</string>
+    <string name="history_cleared">History has been cleared !</string>
+    <string name="home">Home</string>
+    <string name="how_to_get_the_code">How to get the code ?</string>
+    <string name="iban_incomplete">O IBAN que introduziu está incompleto.</string>
+    <string name="iban_invalid">O IBAN que introduziu é inválido.</string>
+    <string name="iban_invalid_country">O IBAN que introduziu é inválido, \"%s\" não é um código de país suportado.</string>
+    <string name="iban_invalid_start">O seu IBAN deve começar por um código de duas letras correspondente ao país.</string>
+    <string name="icon_content_description">Ícone de caixa de diálogo</string>
+    <string name="ideal_bank">Banco iDEAL</string>
+    <string name="if_you_re_having_audio_problems_enable_this_option">Se você está tendo problemas com o aúdio na reprodução, habilite essa opção para ampliar a extensão de suporte de aúdios.</string>
+    <string name="image">Imagem</string>
+    <string msgid="6827826412747255547" name="in_progress">"Em curso"</string>
+    <string name="incomplete_expiry_date">A data de validade do seu cartão está incompleta.</string>
+    <string msgid="2486394087603402002" name="indeterminate">"Nem selecionada nem desselecionada"</string>
+    <string name="introducing_cast">Apresentando EasyPlex  Elenco</string>
+    <string name="invalid_card_number">O número do seu cartão é inválido.</string>
+    <string name="invalid_cvc">O código de segurança do seu cartão é inválido.</string>
+    <string name="invalid_expiry_month">O mês de validade do seu cartão é inválido.</string>
+    <string name="invalid_expiry_year">O ano de validade do seu cartão é inválido.</string>
+    <string name="invalid_request">Invalid request</string>
+    <string name="invalid_shipping_information">Endereço de envio inválido</string>
+    <string name="invalid_zip">O seu código postal está incompleto.</string>
+    <string name="item_view_role_description">Separador</string>
+    <string name="klarna_buy_now_pay_later">Comprar agora ou pagar mais tarde com Klarna.</string>
+    <string name="klarna_pay_later">Pagar mais tarde com Klarna.</string>
+    <string name="latest_added">Latest Added</string>
+    <string name="latest_animes">ÚLTIMAS ATUALIZAÇÕES EM ANIMES</string>
+    <string name="latest_channels">Últimos Canais</string>
+    <string name="latest_episodes">ÚLTIMOS EPISÓDIOS DA SÉRIE</string>
+    <string name="latest_episodes_animes">"ÚLTIMOS EPISÓDIOS DE ANIMES "</string>
+    <string name="latest_series">ÚLTIMAS ATUALIZAÇÕES EM SÉRIES</string>
+    <string name="lecture">Informações</string>
+    <string name="library">Biblioteca</string>
+    <string name="list_add_later">Adicione na sua lista para poder achar com mais facilidade</string>
+    <string name="lists_animes">Lista de Animes</string>
+    <string name="lists_movies">Lista de Filmes</string>
+    <string name="lists_series">Lista de Séries</string>
+    <string name="lists_streaming">Lista de Streaming</string>
+    <string name="live_text">LIVE</string>
+    <string name="loading_rewards">Loading Reward</string>
+    <string name="lock">Lock</string>
+    <string name="login">L O G I N</string>
+    <string name="login_to_comment">You need to login to able to add a comment !</string>
+    <string name="login_to_subscribe">Login First to be able to subscribe</string>
+    <string name="main_player">Main Player</string>
+    <string name="material_clock_toggle_content_description">Selecionar AM ou PM</string>
+    <string name="material_hour_24h_suffix">%1$s horas</string>
+    <string name="material_hour_selection">Selecionar hora</string>
+    <string name="material_hour_suffix">%1$s hora(s)</string>
+    <string name="material_minute_selection">Selecionar minutos</string>
+    <string name="material_minute_suffix">%1$s minutos</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Mude para o modo de relógio para a introdução da hora.</string>
+    <string name="material_timepicker_hour">Hora</string>
+    <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Selecionar hora</string>
+    <string name="material_timepicker_text_input_mode_description">Mude para o modo de introdução de texto para a introdução da hora.</string>
+    <string name="mdtp_date_v1_monthyear">MMMM \'de\' yyyy</string>
+    <string name="mdtp_date_v2_daymonthyear">EEE, dd \'de\' MMM</string>
+    <string msgid="3968620852217927702" name="mdtp_day_picker_description">"Grelha de dias do mês"</string>
+    <string msgid="6908431551612331381" name="mdtp_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> eliminado"</string>
+    <string msgid="7007948707597430919" name="mdtp_done_label">"Concluído"</string>
+    <string msgid="7586639618712934060" name="mdtp_hour_picker_description">"Controlo de deslize circular das horas"</string>
+    <string msgid="2674929164900463786" name="mdtp_item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g> selecionado"</string>
+    <string msgid="6024811202872705251" name="mdtp_minute_picker_description">"Controlo de deslize circular dos minutos"</string>
+    <string msgid="3973338219107019769" name="mdtp_select_day">"Selecionar mês e dia"</string>
+    <string msgid="7651068754188418859" name="mdtp_select_hours">"Selecionar horas"</string>
+    <string msgid="8327182090226828481" name="mdtp_select_minutes">"Selecionar minutos"</string>
+    <string msgid="2603330600102539372" name="mdtp_select_year">"Selecionar ano"</string>
+    <string msgid="6963340404644587098" name="mdtp_year_picker_description">"Lista de anos"</string>
+    <string name="media_notification_channel_name">Transmitir</string>
+    <string name="media_route_menu_title">Elenco</string>
+    <string name="most_popular">Mais populares</string>
+    <string name="movie_cast_label">Elenco</string>
+    <string name="movie_genres_text">Suspense, Ação, Ficção Científica </string>
+    <string name="movie_original_label">Título do Filme</string>
+    <string name="movie_overview_label">Sinopse</string>
+    <string name="movie_overview_text">Uma garota de 10 anos, que vagueia longe de seus país por um caminho que a leva para um mundo dominado por estranhas criaturas em formato de animais. Os pais dela são transformados em porcos junsto com outros em uma casa de banho cheia dessas estranhas criaturas. Ela conseguirá voltar para o mundo dela? </string>
+    <string name="movie_release_label">Data de Lançamento</string>
+    <string name="movies">Filmes</string>
+    <string name="movies_amp_series"><![CDATA[MOVIES & Series]]></string>
+    <string msgid="2939063992730535343" name="mr_button_content_description">"Transmitir"</string>
+    <string msgid="6073720094880410356" name="mr_cast_button_connected">"Transmitir. Ligado"</string>
+    <string msgid="6629927151350192407" name="mr_cast_button_connecting">"Transmitir. A ligar"</string>
+    <string msgid="8071109333469380363" name="mr_cast_button_disconnected">"Transmitir. Desligado"</string>
+    <string msgid="2175930138959078155" name="mr_cast_dialog_title_view_placeholder">"Nenhuma informação disponível"</string>
+    <string msgid="6114250663023140921" name="mr_chooser_searching">"A localizar dispositivos..."</string>
+    <string msgid="1419936397646839840" name="mr_chooser_title">"Transmitir para"</string>
+    <string msgid="3330502667672708728" name="mr_controller_album_art">"Imagem do álbum"</string>
+    <string msgid="9171231064758955152" name="mr_controller_casting_screen">"A transmitir o ecrã..."</string>
+    <string msgid="5684434439232634509" name="mr_controller_close_description">"Fechar"</string>
+    <string msgid="2585048604188129749" name="mr_controller_collapse_group">"Reduzir"</string>
+    <string msgid="7812275474138309497" name="mr_controller_disconnect">"Desligar"</string>
+    <string msgid="4521419834052044261" name="mr_controller_expand_group">"Expandir"</string>
+    <string msgid="855271725131981086" name="mr_controller_no_info_available">"Nenhuma informação disponível."</string>
+    <string msgid="5495452265246139458" name="mr_controller_no_media_selected">"Nenhum conteúdo multimédia selecionado."</string>
+    <string msgid="747801650871398383" name="mr_controller_pause">"Pausar"</string>
+    <string msgid="1253345086594430054" name="mr_controller_play">"Reproduzir"</string>
+    <string msgid="5497722768305745508" name="mr_controller_stop">"Parar"</string>
+    <string msgid="804210341192624074" name="mr_controller_stop_casting">"Parar transmissão"</string>
+    <string msgid="2955862765169128170" name="mr_controller_volume_slider">"Controlo de deslize do volume"</string>
+    <string msgid="4115858704575247342" name="mr_dialog_default_group_name">"Grupo"</string>
+    <string msgid="4307018456678388936" name="mr_dialog_groupable_header">"Adicionar um dispositivo"</string>
+    <string msgid="6068257520605505468" name="mr_dialog_transferable_header">"Reproduzir num grupo"</string>
+    <string msgid="7449553026175453403" name="mr_system_route_name">"Sistema"</string>
+    <string msgid="4088331695424166162" name="mr_user_route_category_name">"Dispositivos"</string>
+    <string name="msg_to_confirm">Check your inbox or spam folders , you can click restart when you complete the confirmation !</string>
+    <string name="mtrl_badge_numberless_content_description">Nova notificação</string>
+    <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Mais de %1$d notificações novas</string>
+    <string name="mtrl_picker_a11y_next_month">Mudar para o mês seguinte</string>
+    <string name="mtrl_picker_a11y_prev_month">Mudar para o mês anterior</string>
+    <string name="mtrl_picker_announce_current_selection">Seleção atual: %1$s</string>
+    <string name="mtrl_picker_cancel">Cancelar</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Selecione a data</string>
+    <string name="mtrl_picker_date_header_unselected">Data selecionada</string>
+    <string name="mtrl_picker_day_of_week_column_header">Coluna de dias: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Formato inválido.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemplo: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Utilize: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Intervalo inválido.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navegue para o ano %1$s</string>
+    <string name="mtrl_picker_out_of_range">Fora do intervalo: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data de início – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data de conclusão</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Selecione o intervalo</string>
+    <string name="mtrl_picker_range_header_unselected">Data de início – Data de conclusão</string>
+    <string name="mtrl_picker_save">Guardar</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data de conclusão</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data de início</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Mudar para o modo de introdução de calendário</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Toque para mudar para a seleção do dia</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Mudar para o modo de introdução de texto</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Toque para mudar para a seleção do ano</string>
+    <string name="mtrl_timepicker_cancel">Cancelar</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="music">Music</string>
+    <string name="mx_player">MX PLAYER</string>
+    <string name="my_downloads">BAIXAR</string>
+    <string name="mylist">Minha Lista</string>
+    <string name="name">Nome</string>
+    <string name="native_body">Corpo</string>
+    <string name="native_headline">Título</string>
+    <string name="native_media_view">Visualização de multimédia</string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"Navegar para cima"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"Abrir gaveta de navegação"</string>
+    <string name="navigation_drawer_close">Fechar o Menu do Navegador</string>
+    <string name="navigation_drawer_open">Abrir o Menu do Navegador</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Menu de navegação"</string>
+    <string name="need_storage_permission">\" needs storage permission to display file list\"</string>
+    <string name="networks">Networks</string>
+    <string name="networks_list_is_empty">Networks List is empty</string>
+    <string name="new_code_message">Enviámos-lhe um novo código</string>
+    <string name="new_episodes">NEW EPISODES</string>
+    <string name="new_releases">ÚLTIMAS ATUALIZAÇÕES EM FILMES</string>
+    <string name="new_this_week">NOVIDADE DA SEMANA</string>
+    <string name="next_episode">Próximo Episódio</string>
+    <string name="no_download_movies_added">Nenhum Download Adicionado</string>
+    <string name="no_list_result">Adicione Filmes ou Series para a sua lista</string>
+    <string name="no_relateds_movies_found">Nenhum Filme relacionado encontrado</string>
+    <string name="no_trailer_has_been_found_click_below_to_search_on_youtube">No Trailer has been found , click below to search on youtube</string>
+    <string name="no_upcoming_movies_added">Nenhum Lançamento Adicionado</string>
+    <string name="non_verified">- Non Verified</string>
+    <string name="not_found_series">The Series not found in our database !</string>
+    <string msgid="6610465462668679431" name="not_selected">"Não selecionado"</string>
+    <string msgid="6573031135582639649" name="not_set">"Não definido"</string>
+    <string name="nothing_selected">Nothing Selected</string>
+    <string msgid="875452955155264703" name="off">"Desativado"</string>
+    <string name="offline_notification_text">Toque para abrir o anúncio.</string>
+    <string name="offline_notification_title">Veja o anúncio que guardou quando estava offline</string>
+    <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_confirmation">Receberá uma notificação com o link quando voltar a estar online.</string>
+    <string name="offline_opt_in_decline">Não</string>
+    <string name="offline_opt_in_message">Receberá uma notificação com um link para o site do anunciante.</string>
+    <string name="offline_opt_in_title">Abra o anúncio quando voltar a estar online</string>
+    <string name="oh_darn_we_don_t_have_that">Lamentamos, não temos um programa com esse nome.</string>
+    <string name="ok">OK</string>
+    <string msgid="8655164131929253426" name="on">"Ativado"</string>
+    <string name="oops">Oops</string>
+    <string name="p24_bank">Banco Przelewy24</string>
+    <string name="password">Senha</string>
+    <string name="password_toggle_content_description">Mostrar palavra-passe</string>
+    <string name="pay_with_pagseguro">Pay With PagSeguro</string>
+    <string name="pay_with_razorpay">Pay With RazorPay</string>
+    <string name="payment_failed_please_try_again">Pagamento Falhou – Por favor, Tente Novamente</string>
+    <string name="payment_method_add_new_card">Adicionar um novo cartão…</string>
+    <string name="payment_method_add_new_fpx">Selecionar conta bancária (FPX)…</string>
+    <string name="paypal_auth_common_header_back_press">para trás</string>
+    <string name="paypal_auth_common_header_close">fechar</string>
+    <string name="paypal_auth_common_header_paypal_logo">Logótipo do PayPal</string>
+    <string name="paypal_auth_otp_login_back_press">para trás</string>
+    <string name="paypal_auth_otp_login_check_code">Verifique o seu código e tente novamente.</string>
+    <string name="paypal_auth_otp_login_close">fechar</string>
+    <string name="paypal_auth_otp_login_code_expired">O seu código expirou. Obtenha um novo código.</string>
+    <string name="paypal_auth_otp_login_code_sent_to">Código enviado para %1$s</string>
+    <string name="paypal_auth_otp_login_error_use_password_instead">Usar antes a palavra-passe</string>
+    <string name="paypal_auth_otp_login_get_a_code">Obter código</string>
+    <string name="paypal_auth_otp_login_get_new_code">Obter novo código</string>
+    <string name="paypal_auth_otp_login_log_in">Iniciar sessão</string>
+    <string name="paypal_auth_otp_login_log_in_fast_with_a_one_time_code">Iniciar sessão rapidamente com código de utilização única</string>
+    <string name="paypal_auth_otp_login_otp_phone_header">Introduzir o seu \n código de utilização única</string>
+    <string name="paypal_auth_otp_login_paypal_logo">Logótipo do PayPal</string>
+    <string name="paypal_auth_otp_login_paypal_logo_content_description">Logótipo do PayPal</string>
+    <string name="paypal_auth_otp_login_phone_text">número de telefone</string>
+    <string name="paypal_auth_otp_login_something_went_wrong">Ocorreu um erro</string>
+    <string name="paypal_auth_otp_login_tcpa_consent">Ao continuar, confirma que tem autorização para usar este número de telemóvel e aceita receber mensagens SMS. Podem ser aplicadas tarifas pelo seu operador.</string>
+    <string name="paypal_auth_otp_login_try_again_later">Pode tentar novamente mais tarde ou iniciar sessão com a sua palavra-passe.</string>
+    <string name="paypal_auth_otp_login_use_password_instead">Usar antes a palavra-passe</string>
+    <string name="paypal_auth_otp_login_we_ll_send_a_code_to">Vamos enviar um código para:</string>
+    <string name="paypal_auth_split_login_email">Endereço de e-mail</string>
+    <string name="paypal_auth_split_login_enter_an_email_address">Introduza um endereço de e-mail.</string>
+    <string name="paypal_auth_split_login_enter_your_email_to_get_started">Introduza o seu e-mail para começar.</string>
+    <string name="paypal_auth_split_login_forgot_your_login_info">Esqueceu-se dos dados de início de sessão?</string>
+    <string name="paypal_auth_split_login_next">Seguinte</string>
+    <string name="paypal_auth_split_login_pay_with_paypal">Pagar com PayPal</string>
+    <string name="paypal_auth_step_up_challenge">Please Resolve stepup challenge </string>
+    <string name="phone_is_empty">Please fill the phone number</string>
+    <string name="pinned">FIXADO</string>
+    <string name="place">place</string>
+    <string name="plan_name">NOME</string>
+    <string name="play_media_as_embed">Reproduzir Vídeo embutido</string>
+    <string name="play_next">Reproduzir Próximo</string>
+    <string name="play_now">Reproduzir Agora</string>
+    <string name="play_premium_content_without_restrictions">Reproduzir Conteúdo Premium sem restrições</string>
+    <string name="play_something">Play Something</string>
+    <string name="play_trailer">Reproduzir o Trailer</string>
+    <string name="play_with_web_video_caster">Play with Web Video Caster</string>
+    <string name="playback_setting_speed_title">Velocidade de Reprodução</string>
+    <string name="playback_speed">Playback Speed</string>
+    <string name="playback_speed_normal">Normal</string>
+    <string name="player_default">padrão</string>
+    <string name="player_fullscreen">tela cheia</string>
+    <string name="player_room">Zoom</string>
+    <string name="player_substitles">Legendas</string>
+    <string name="please_press_to_close_this_page">Please Press to close this page</string>
+    <string name="please_try_another_genre">Por favor, tente outra Categoria.</string>
+    <string name="please_uninstall_your_sniffer_to_be_able_to_use_the_app">Please Uninstall Your Sniffer to be able to use the app !</string>
+    <string name="popular_casters">POPULAR CASTERS</string>
+    <string name="popular_series">SÉRIES POPULARES</string>
+    <string msgid="6685851473431805375" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" copiado para a área de transferência."</string>
+    <string name="prefs_header_application">Comportamento do aplicativo</string>
+    <string name="prefs_header_application_summary">Controle como o aplicativo se comporta na TV</string>
+    <string name="prefs_volume_default">dispositivo</string>
+    <string name="prefs_volume_dialog_title">Atribuição de Volume</string>
+    <string name="prefs_volume_title">Atribuição de Volume</string>
+    <string name="prefs_volume_title_summary">Controles %1$s</string>
+    <string name="premuim">Premium</string>
+    <string name="price_free">Gratuito</string>
+    <string name="privacy_amp_policy"><![CDATA[Privacy & Policy]]></string>
+    <string name="privacy_policy">Política de Privacidade</string>
+    <string name="profile_added">Profile Added Successfully</string>
+    <string name="profile_limit">you cannot create more than 5 profiles on the same account</string>
+    <string name="profile_name_placeholder">Profile Name...</string>
+    <string name="profile_update_error">\"Your profile is not  updated ! \"</string>
+    <string name="profile_updated">\"Your profile has been updated successfully ! \"</string>
+    <string name="queue_download_message_fragment">This is where you\'ll see the shows and movies in queue mode. try to add some download and Check back later to see what we\'ve found</string>
+    <string name="queue_is_empty">Queue is empty !</string>
+    <string name="queue_item_added_to_play_next">Um item foi adicionado para reproduzir</string>
+    <string name="queue_item_added_to_queue">Um item foi adicionado à Fila</string>
+    <string name="queue_list">Fila</string>
+    <string name="queue_tag_item">tag-da-fila</string>
+    <string name="quota_exceeded">The SMS quota for the project has been exceeded</string>
+    <string msgid="5941395253238309765" name="range_end">"Fim do intervalo"</string>
+    <string msgid="7097486360902471446" name="range_start">"Início do intervalo"</string>
+    <string name="rating_sent">Review has been sent Successfully</string>
+    <string name="ready_5sec">estará pronto em 5 segundos</string>
+    <string name="recommended_for_you">RECOMENDADO PARA VOCÊ</string>
+    <string name="register">R E G I S T R A R</string>
+    <string name="register_sucess">Foi Registrado com Sucesso</string>
+    <string name="relateds">Relacionados</string>
+    <string name="release_date">DATA DE LANÇAMENTO</string>
+    <string name="remove">Remover</string>
+    <string name="remove_watch_list">Removed From Watchlist</string>
+    <string name="removed">Removido %s</string>
+    <string name="removed_mylist">\"Removed: \"</string>
+    <string name="report_broken_link">Reportar Link Quebrado</string>
+    <string name="report_sent">Your report has been submitted successfully</string>
+    <string name="resend_token">Resend Token</string>
+    <string name="reset_your_password">Reset Your Password</string>
+    <string name="rest_confirmation_mail">\"A reset confirmation email sent to \"</string>
+    <string name="restart">Restart</string>
+    <string name="resume">Resume</string>
+    <string name="resumes">Resume</string>
+    <string name="review_require_login">Login is required to be able to rate!</string>
+    <string name="review_sent">Review has been sent successfully</string>
+    <string name="rewards_ads_not_ready">The rewarded ad wasn\'t ready yet</string>
+    <string name="root_warning">You cannot run the app on a rooted device !</string>
+    <string name="rooted_message">You cannot run the app on a rooted device !</string>
+    <string name="s1">Guardar imagem</string>
+    <string name="s2">Permitir ao anúncio armazenar uma imagem na galeria de imagens?</string>
+    <string name="s3">Aceitar</string>
+    <string name="s4">Recusar</string>
+    <string name="s5">Criar evento de calendário</string>
+    <string name="s6">Permitir ao anúncio criar um evento de calendário?</string>
+    <string name="s7">Anúncio de teste</string>
+    <string name="save_for_future_payments_with_merchant_name">Guardar para pagamentos %s futuros</string>
+    <string name="scan_card">Ler cartão</string>
+    <string name="screen_locked">Screen Locked</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Pesquisar"</string>
+    <string name="search_movies_series">Procure Filmes, Series e Animes…</string>
+    <string name="search_on_youtube">Search on YouTube</string>
+    <string name="search_results">\"Search Results \"</string>
+    <string name="seasons">Temporadas</string>
+    <string name="secure_checkout">Finalização de compra segura</string>
+    <string name="select_qualities">"Selecione a qualidade da fonte "</string>
+    <string name="select_quality">Selecione a qualidade da fonte</string>
+    <string name="select_subs">Selecionar Legendas</string>
+    <string msgid="6043586758067023" name="selected">"Selecionado"</string>
+    <string name="send">Send</string>
+    <string name="send_reset_token">Send Reset Token</string>
+    <string name="sepa_mandate">Quando fornecer os seus dados de pagamento e confirmar este pagamento, autoriza (A) %s e a Stripe, o nosso provedor de serviços de pagamentos, a enviar instruções ao seu banco para debitar a sua conta e (B) o seu banco a debitar a sua conta de acordo com essas instruções. Como parte dos seus direitos, tem direito a um reembolso do seu banco de acordo com os termos e condições do seu acordo com o banco. Um reembolso deve ser solicitado até 8 semanas a partir da data na qual a sua conta foi debitada. Os seus direitos são explicados numa declaração que pode obter do seu banco. Aceita receber notificações de futuros débitos até 2 dias antes de serem efetuados.</string>
+    <string name="series">Séries</string>
+    <string name="servers">Servers</string>
+    <string name="settings">Configurações</string>
+    <string name="share_msg">Recomendo assistir</string>
+    <string name="show_queue">Mostrar Fila</string>
+    <string name="signup">CRIAR CONTA</string>
+    <string name="skip">P U L A R</string>
+    <string name="skip_recap">PULAR RECAP</string>
+    <string name="sms_sent">The SMS verification code has been sent to the provided phone number</string>
+    <string name="sniffer_message">You Cannot Run Any Sniffer when the app is running !</string>
+    <string name="sorry">DESCULPE!</string>
+    <string name="sorry_this_content_is_only_available_for_easyplex_vip_users">Desculpe, este recurso é reservado somente ao nossos membros membros Premium. Entre em nosso discord e saiba mais! https://discord.gg/yZhgUh6qeh</string>
+    <string name="sort_by">Ordenar por</string>
+    <string name="source_quality">Selecione a Qualidade</string>
+    <string name="speed_normal">Normal</string>
+    <string name="sponsored">Patrocinadas</string>
+    <string name="starring">Estrelando</string>
+    <string name="start_watching">COMEÇAR ASSISTIR</string>
+    <string name="startapp">StartApp</string>
+    <string name="status">status</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_warning">Storage access permission not given</string>
+    <string name="story">Story</string>
+    <string name="streaming">Streaming</string>
+    <string name="streaming_home">STREAMING</string>
+    <string name="stripe_3ds2_bzv_issuer_image_description">Imagem da entidade emissora</string>
+    <string name="stripe_3ds2_bzv_payment_system_image_description">Imagem do sistema de pagamento</string>
+    <string name="stripe_3ds2_czv_whitelist_no_label">Não</string>
+    <string name="stripe_3ds2_czv_whitelist_yes_label">Sim</string>
+    <string name="stripe_3ds2_hzv_cancel_label">Cancelar</string>
+    <string name="stripe_3ds2_hzv_header_label">Finalização de compra segura</string>
+    <string name="stripe_3ds2_processing">A processar\u2026</string>
+    <string name="stripe_continue_button_label">Continuar</string>
+    <string name="stripe_failure_connection_error">Estamos com problemas de ligação relativamente ao nosso prestador de serviços de pagamentos. Verifique a sua ligação à Internet e tente novamente.</string>
+    <string name="stripe_failure_reason_authentication">Não conseguimos autenticar o seu método de pagamento. Selecione outro método de pagamento e tente novamente.</string>
+    <string name="stripe_failure_reason_timed_out">A autenticação do seu método de pagamento atingiu o tempo limite -- tente novamente</string>
+    <string name="stripe_internal_error">Ocorreu um erro interno.</string>
+    <string name="stripe_pay_button_amount">Pagar %s</string>
+    <string name="stripe_paymentsheet_ach_continue_mandate"><![CDATA[Ao continuar, concorda em autorizar pagamentos de acordo com <terms>estas condições</terms>.]]></string>
+    <string name="stripe_paymentsheet_ach_save_mandate"><![CDATA[Ao guardar a sua conta bancária para %s, concorda em autorizar pagamentos de acordo com <terms>estas condições</terms>.]]></string>
+    <string name="stripe_paymentsheet_add_payment_method_button_label">+ Adicionar</string>
+    <string name="stripe_paymentsheet_add_payment_method_card_information">Informações do cartão</string>
+    <string name="stripe_paymentsheet_add_payment_method_title">Adicione as suas informações de pagamento</string>
+    <string name="stripe_paymentsheet_back">Voltar</string>
+    <string name="stripe_paymentsheet_close">Fechar</string>
+    <string name="stripe_paymentsheet_expiration_date_hint">MM/AA</string>
+    <string name="stripe_paymentsheet_microdeposit">A Stripe efetuará um depósito de 0,01 USD na sua conta dentro de 1 a 2 dias úteis. Receberá posteriormente um email com instruções para concluir o pagamento a %s.</string>
+    <string name="stripe_paymentsheet_or_pay_using">Ou pagar com</string>
+    <string name="stripe_paymentsheet_or_pay_with_card">Ou pagar com um cartão</string>
+    <string name="stripe_paymentsheet_pay_button_label">Pagar</string>
+    <string name="stripe_paymentsheet_payment_method_au_becs_debit">Débito Direto AU BECS</string>
+    <string name="stripe_paymentsheet_payment_method_card">Cartão</string>
+    <string name="stripe_paymentsheet_payment_method_sepa_debit">Débito SEPA</string>
+    <string name="stripe_paymentsheet_primary_button_processing">A processar…</string>
+    <string name="stripe_paymentsheet_remove_pm">Remover %s</string>
+    <string name="stripe_paymentsheet_save_for_future_payments">Guardar para pagamentos futuros</string>
+    <string name="stripe_paymentsheet_save_this_card_with_merchant_name">Guardar este cartão para pagamentos futuros %s</string>
+    <string name="stripe_paymentsheet_select_payment_method">Selecione o seu método de pagamento</string>
+    <string name="stripe_paymentsheet_total_amount">Total: %s</string>
+    <string name="stripe_setup_button_label">Configurar</string>
+    <string name="stripe_verify_your_payment">Verifique o seu pagamento</string>
+    <string name="sub_setting_clear_cache_end">of space</string>
+    <string name="sub_setting_clear_cache_start">Free up</string>
+    <string name="submit">Submit</string>
+    <string name="subscribe">ASSINAR</string>
+    <string name="subscribe_now">ASSINE AGORA</string>
+    <string name="substitle_size">Tamanho da Legenda</string>
+    <string name="substitles">Legendas</string>
+    <string name="substitles_background">Substitles Background</string>
+    <string name="substitles_empty">No Substitles Found for this media</string>
+    <string name="successful_payment">Successful Payment</string>
+    <string name="suggest_success">Your Suggestions has been submitted successfully</string>
+    <string name="suggestions">Sugestões</string>
+    <string name="suggestions_is_only_for_logged_users">Suggestions is only for Logged users</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="support">SUPORTE</string>
+    <string name="synopsis">Sinopse</string>
+    <string msgid="1672349317127674378" name="tab">"Separador"</string>
+    <string name="tap_to_unlock">Tap to Unlock</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> por cento."</string>
+    <string name="thank_you">OBRIGADO!</string>
+    <string name="the_rewarded_ad_wasn_t_loaded_yet_or_completed">The rewarded ad wasn\'t loaded yet or Completed</string>
+    <string name="the_transaction_was_successful">A Transação foi realizada com Sucesso!</string>
+    <string name="this_content_if_only_for_vip">Esse Conteúdo é apenas para os VIPS</string>
+    <string name="title">TÍTULO</string>
+    <string name="title_add_a_card">Adicionar um cartão</string>
+    <string name="title_add_an_address">Definir endereço</string>
+    <string name="title_bank_account">Conta bancária</string>
+    <string name="title_payment_method">Método de Pagamento</string>
+    <string name="title_select_shipping_method">Selecionar método de envio</string>
+    <string name="track_selection_title">Selecione as Trilhas</string>
+    <string name="trailer_loading">Carregar Trailer</string>
+    <string name="trailer_not_found">No Trailer Found</string>
+    <string name="trending_now">EM ALTA</string>
+    <string name="try_easyplex_vip">Assine Agora</string>
+    <string name="try_searching_for_another_movie_show">Tente procurar por outro Filme, Série</string>
+    <string name="turn_off_ads_banner_interstitial_ads">Desabilita o Anúncios no app. Sem Espera.</string>
+    <string name="type_comment">Type a word to able to comment !</string>
+    <string name="type_to_comment">Type a word to able to comment !</string>
+    <string name="unable_cast">Incapaz de conectar para transmitir</string>
+    <string name="unable_to_get_genres">Não é possível obter listas de gêneros</string>
+    <string name="unityads">UnityAds</string>
+    <string name="unlock_control">Unlock Control ?</string>
+    <string name="up_next">Próximo em : </string>
+    <string name="upcoming">Em Breve</string>
+    <string name="update">Atualizar</string>
+    <string name="update_message">Atualizar a Mensagem</string>
+    <string name="update_profile">A T U A L I Z A R</string>
+    <string name="upload_avatar">Upload Avatar</string>
+    <string name="using_1dm">USING 1DM</string>
+    <string name="using_adm">USING ADM</string>
+    <string name="using_app">USING APP</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"DESATIVADO"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"ATIVADO"</string>
+    <string name="verified">- Verified</string>
+    <string name="verify_email_address">Verify Email Address</string>
+    <string name="version">EASYPLEX: %1$ss</string>
+    <string name="version_2_0">Versão 2.0</string>
+    <string name="video_qualities">Qualidades do Vídeo</string>
+    <string name="views">Views: </string>
+    <string name="vip">VIP</string>
+    <string name="vip_features">Com o Premium. Assista milhares de Séries e Filmes, com planos a partir de R$10,00/mês.</string>
+    <string name="vlc">VLC</string>
+    <string name="vpn_message">You are using vpn turn it off to countinue ... !</string>
+    <string name="wallet_buy_button_place_holder">Comprar com a Google</string>
+    <string name="watch_live_streaming">Watch Live Streaming</string>
+    <string name="watch_video_ads_to_unlock">ASSISTA O ANÚNCIO PARA DESBLOQUEAR</string>
+    <string name="watermark_label_prefix">AdMob – </string>
+    <string name="web_video_caster">Web Video Caster</string>
+    <string name="who_s_watching">Who\'s Watching ?</string>
+    <string name="wi_fi_only">Apenas Wi-Fi</string>
+    <string name="write_something">Escreva algo…</string>
+    <string name="yobex">https://codecanyon.net/user/yobex</string>
+    <string name="your_email_is_not_verified">Your Email is not verified !</string>
+</resources>
